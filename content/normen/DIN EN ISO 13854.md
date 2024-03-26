@@ -37,14 +37,14 @@ Einsatzgebiete:
 ***
 ### Normative Verweisungen
 
-ISO 12100:2010, Safety of machinery — General principles for design — Risk assessment and risk reduction
+[[DIN EN ISO 12100]], Safety of machinery — General principles for design — Risk assessment and risk reduction
 
-ISO 13857, Safety of machinery — Safety distances to prevent hazard zones being reached by upper and lower limbs
+[[DIN EN ISO 13857]], Safety of machinery — Safety distances to prevent hazard zones being reached by upper and lower limbs
 
 
 ***
 ### Weiterführende Informationen
 
+[[DIN EN 547]]
 
-
-[![[rokit_banner.png|300]]](https://public-robots.de/)
+[![[rokit_banner.png]]](https://public-robots.de/)

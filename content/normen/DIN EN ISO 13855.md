@@ -49,12 +49,11 @@ Einsatzgebiete:
 ***
 ### Normative Verweisungen
 
-ISO 12100-1, Safety of machinery — Basic concepts, general principles for design — Part 1: Basic
-terminology, methodology
+[[DIN EN ISO 12100]], Safety of machinery — Basic concepts, general principles for design — Part 1: Basic terminology, methodology
 
-ISO 13857:2008, Safety of machinery — Safety distances to prevent hazard zones being reached by the upper and lower limbs
+[[DIN EN ISO 13857]], Safety of machinery — Safety distances to prevent hazard zones being reached by the upper and lower limbs
 
-ISO 14121-1:2007, Safety of machinery — Risk assessment — Part 1: Principles IEC 61496-1:2004, Safety of machinery — Electro-sensitive protective equipment — Part 1: General requirements and tests
+(zurückgezogen) ISO 14121-1:2007, Safety of machinery — Risk assessment — Part 1: Principles IEC 61496-1:2004, Safety of machinery — Electro-sensitive protective equipment — Part 1: General requirements and tests 
 
 
 ***
@@ -62,4 +61,4 @@ ISO 14121-1:2007, Safety of machinery — Risk assessment — Part 1: Principles
 
 
 
-[![[rokit_banner.png|300]]](https://public-robots.de/)
+[![[rokit_banner.png]]](https://public-robots.de/)

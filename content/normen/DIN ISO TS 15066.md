@@ -37,17 +37,17 @@ Einsatzgebiete:
 ***
 ### Normative Verweisungen
 
-ISO 10218-1:2011, Robots and robotic devices — Safety requirements for industrial robots — Part 1: Robots
+[[DIN EN ISO 10218-1]], Robots and robotic devices — Safety requirements for industrial robots — Part 1: Robots
 
-ISO 10218-2:2011, Robots and robotic devices — Safety requirements for industrial robots — Part 2: Robot systems and integration
+[[DIN EN ISO 10218-2]], Robots and robotic devices — Safety requirements for industrial robots — Part 2: Robot systems and integration
 
-ISO 12100, Safety of machinery — General principles for design — Risk assessment and risk reduction
+[[DIN EN ISO 12100]], Safety of machinery — General principles for design — Risk assessment and risk reduction
 
-ISO 13850, Safety of machinery — Emergency stop function — Principles for design
+[[DIN EN ISO 13850]], Safety of machinery — Emergency stop function — Principles for design
 
-ISO 13855, Safety of machinery — Positioning of safeguards with respect to the approach speeds of parts of the human body
+[[DIN EN ISO 13855]], Safety of machinery — Positioning of safeguards with respect to the approach speeds of parts of the human body
 
-IEC 60204-1, Safety of machinery — Electrical equipment of machines — Part 1: General requirements
+[[DIN EN 60204-1|IEC 60204-1]], Safety of machinery — Electrical equipment of machines — Part 1: General requirements
 
 
 ***
@@ -60,4 +60,4 @@ IEC 60204-1, Safety of machinery — Electrical equipment of machines — Part 1
 - [MS-ET-01: Messspezifikation für Kraft- und Druckmessungen an Applikationen von kollaborierenden Robotersystemen](https://www.bgetem.de/redaktion/arbeitssicherheit-gesundheitsschutz/dokumente-und-dateien/pruefstelle-et/messpezifikation-ms-et-01_2018-06.pdf)
 - [Fachbereich AKTUELL FBNG-017: Roboter als Verpackungsmaschinen](https://publikationen.dguv.de/widgets/pdf/download/article/4756)
 
-[![[rokit_banner.png|300]]](https://public-robots.de/)
+[![[rokit_banner.png]]](https://public-robots.de/)

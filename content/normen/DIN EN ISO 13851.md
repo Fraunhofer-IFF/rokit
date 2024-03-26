@@ -52,15 +52,15 @@ Einsatzgebiete:
 ***
 ### Normative Verweisungen
 
-ISO 12100:2010 _, Safety of machinery — General principles for design — Risk assessment and risk reduction_
+[[DIN EN ISO 12100]]_, Safety of machinery — General principles for design — Risk assessment and risk reduction_
 
-ISO 13849-1:2015 , _Safety of machinery — Safety-related parts of control systems — Part 1: General principles for design_
+[[DIN EN ISO 13849-1]], _Safety of machinery — Safety-related parts of control systems — Part 1: General principles for design_
 
-ISO 13849-2:2012 , _Safety of machinery — Safety-related parts of control systems — Part 2: Validation_
+[[DIN EN ISO 13849-2]] , _Safety of machinery — Safety-related parts of control systems — Part 2: Validation_
 
-ISO 13855:2010 , _Safety of machinery — Positioning of safeguards with respect to the approach speeds of parts of the human body_
+[[DIN EN ISO 13855]] , _Safety of machinery — Positioning of safeguards with respect to the approach speeds of parts of the human body_
 
-IEC 62061:2005 + IEC 62061 AMD 1:2012 + IEC 62061 AMD 2:2015 , _Safety of machinery — Functional safety of safety-related electrical, electronic and programmable electronic control systems_
+[[DIN EN IEC 62061|IEC 62061]] + IEC 62061 AMD 1:2012 + IEC 62061 AMD 2:2015 , _Safety of machinery — Functional safety of safety-related electrical, electronic and programmable electronic control systems_
 
 
 ***
@@ -68,4 +68,4 @@ IEC 62061:2005 + IEC 62061 AMD 1:2012 + IEC 62061 AMD 2:2015 , _Safety of 
 
 
 
-[![[rokit_banner.png|300]]](https://public-robots.de/)
+[![[rokit_banner.png]]](https://public-robots.de/)

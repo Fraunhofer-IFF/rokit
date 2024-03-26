@@ -39,23 +39,24 @@ Einsatzgebiete:
 ***
 ### Normative Verweisungen
 
-ISO 4413, Hydraulic fluid power — General rules and safety requirements for systems and their components
+[[DIN EN ISO 4413]], Hydraulic fluid power — General rules and safety requirements for systems and their components
 
-ISO 4414, Pneumatic fluid power — General rules and safety requirements for systems and their components
+[[DIN EN ISO 4414]], Pneumatic fluid power — General rules and safety requirements for systems and their components
 
-ISO 12100:2010, Safety of machinery — General principles for design — Risk assessment and risk reduction
+[[DIN EN ISO 12100]], Safety of machinery — General principles for design — Risk assessment and risk reduction
 
-ISO 13849-1, Safety of machinery — Safety-related parts of control systems — Part 1: General principles for design
+[[Din EN ISO 13849-1]], Safety of machinery — Safety-related parts of control systems — Part 1: General principles for design
 
-IEC 60204-1:2005, Safety of machinery — Electrical equipment of machines — Part 1: General requirements
+[[DIN EN 60204-1]], Safety of machinery — Electrical equipment of machines — Part 1: General requirements
 
 IEC 60947-5-5:2005, Low-voltage switchgear and controlgear — Part 5-5: Control circuit devices and switching elements — Electrical emergency stop device with mechanical latching function
 
-IEC 62061, Safety of machinery — Functional safety of safety-related electrical, electronic and programmable electronic control systems
+[[DIN EN IEC 62061|IEC 62061]], Safety of machinery — Functional safety of safety-related electrical, electronic and programmable electronic control systems
 
 ***
 ### Weiterführende Informationen
 
+- [Unterscheidung zwischen aktivem und nicht aktivem NOT-HALT mittels Beleuchtung (PDF, 70 kB, nicht barrierefrei)](https://www.dguv.de/medien/ifa/de/pra/maschinenschutz/ifa-sichtweise_not-halt-beleuchtung.pdf "Downloadöffnen und herunterladen"
+- [Prüfgrundsatz GS-ET-08: "Elektrische Not-Aus-Geräte mit mechanischer Verrastfunktion"](https://www.bgetem.de/arbeitssicherheit-gesundheitsschutz/pruefen-zertifizieren/pruef-und-zertifizierungsstelle-elektrotechnik/pruefgrundsaetze)
 
-
-[![[rokit_banner.png|300]]](https://public-robots.de/)
+[![[rokit_banner.png]]](https://public-robots.de/)

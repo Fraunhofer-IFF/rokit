@@ -49,4 +49,4 @@ Einsatzgebiete:
 - [DGUV Test Information 13: Wesentliche Veränderungen von Produkten](https://publikationen.dguv.de/widgets/pdf/download/article/4666)
 - [DGUV Test Information 03: Vergleich von CE-Kennzeichnung und Prüfzeichen](https://publikationen.dguv.de/widgets/pdf/download/article/3085)
 
-[![[rokit_banner.png|300]]](https://public-robots.de/)
+[![[rokit_banner.png]]](https://public-robots.de/)
