@@ -1,6 +1,15 @@
 # Willkommen
 
-Willkommen zum github für die Wissensdatenbank für rokit.
+Willkommen zur Wissensdatenbank für rokit.
 
 
-Die Obsidian Daten legen unter "/content". Diesen Ordner könnt ihr direkt mit als Vault in Obsidian öffnen und die Daten bearbeiten. Danach nur noch mit git commiten und pushen.
+# FAQ
+
+## Welche Programme brauche ich?
+
+[Git](https://git-scm.com/) - Zur Versionsverwaltung der Daten
+[Obsidian](https://obsidian.md/) - Zum lokalen bearbeiten und anzeigen der Markdown Datein
+
+## Wie kann ich die Datein local sehen und bearbeiten?
+
+Die Obsidian Daten legen unter [content](/content). Diesen Ordner könnt ihr direkt als Vault in Obsidian öffnen und die Daten bearbeiten. 
