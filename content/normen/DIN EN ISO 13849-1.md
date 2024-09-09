@@ -2,7 +2,7 @@
 tags:
   - arbeitsstatus/todo
 Ausgabedatum: 2023-12-01
-Harmonisiert: false
+Harmonisiert: true
 Gülitgkeit: true
 Deutsch verfügbar: true
 Englisch verfügbar: true
