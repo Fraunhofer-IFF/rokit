@@ -1,6 +1,5 @@
 ---
-tags:
-  - arbeitsstatus/todo
+tags: []
 Ausgabedatum: 2012-01-01
 Harmonisiert: false
 Gülitgkeit: true

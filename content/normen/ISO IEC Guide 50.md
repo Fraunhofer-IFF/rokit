@@ -31,10 +31,12 @@ Domäne:
 - #Kinder
 
 Gefährdungen:
-- 
+- #Gefährdung/Divers 
 
 Einsatzgebiete:
-- 
+- #Einsatzgebiet/Privat 
+- #Einsatzgebiet/Industrie 
+- #Einsatzgebiet/Öffentlichkeit 
 
 ***
 ### Normative Verweisungen

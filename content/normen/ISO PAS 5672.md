@@ -33,6 +33,7 @@ Domäne:
 
 Gefährdungen:
 - #Gefährdungen/Kollisionen 
+- #Gefährdung/mechanisch 
 
 Einsatzgebiete:
 - #Einsatzgebiet/Industrie 
