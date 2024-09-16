@@ -1,6 +1,5 @@
 ---
-tags:
-  - arbeitsstatus/todo
+tags: []
 Ausgabedatum: 2009-01-01
 Harmonisiert: false
 Gülitgkeit: true
@@ -25,24 +24,30 @@ zusätzliche Anforderungen ergeben.
 ### Tags
 
 Domäne:
-- 
+- #Domäne/Maschinen 
 
 Gefährdungen:
-- 
+- #Gefährdung/Ergonomie
 
 Einsatzgebiete:
-- 
+- #Einsatzgebiet/Industrie 
 
 ***
 ### Normative Verweisungen
 
 EN 292-1, Sicherheit von Maschinen — Grundbegriffe, allgemeine Gestaltungsleitsätze — Teil 1:
 Grundsätzliche Terminologie, Methodik
+
 EN 294, Sicherheit von Maschinen — Sicherheitsabstände gegen das Erreichen von Gefahrstellen mit den oberen Gliedmaßen
+
 EN 547-1, Sicherheit von Maschinen — Körpermaße des Menschen — Teil 1: Grundlagen zur Bestimmung von Abmessungen für Ganzkörper-Zugänge an Maschinenarbeitsplätzen
+
 EN 547-2, Sicherheit von Maschinen — Körpermaße des Menschen — Teil 2: Grundlagen für die Bemessung von Zugangsöffnungen
+
 EN 547-3, Sicherheit von Maschinen — Körpermaße des Menschen — Teil 3: Körpermaßdaten
+
 prEN 979, Definitionsgrundlagen menschlicher Körpermaße für die Gestaltung technischer Erzeugnisse
+
 EN 614-1, Sicherheit von Maschinen — Ergonomische Gestaltungsgrundsätze — Teil 1: Begriffe und
 allgemeine Leitsätze
 ***

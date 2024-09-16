@@ -1,6 +1,5 @@
 ---
-tags:
-  - arbeitsstatus/todo
+tags: []
 Ausgabedatum: 2011-01-01
 Harmonisiert: true
 Gülitgkeit: true
@@ -37,10 +36,21 @@ Domäne:
 - #Domäne/Maschinen 
 
 Gefährdungen:
-- 
+- #Gefährdung/mechanisch 
+- #Gefährdung/elektrisch 
+- #Gefährdung/thermisch
+- #Gefährdung/Lärm
+- #Gefährdung/Vibration
+- #Gefährdung/Strahlung
+- #Gefährdung/Materialien_Substanzen
+- #Gefährdung/Pneumatik 
+- #Gefährdung/Hydraulik 
+- #Gefährdung/Ergonomie
+- #Gefährdung/Umgebung
+- #Gefährdung/Kombination
 
 Einsatzgebiete:
-- 
+- #Einsatzgebiet/Industrie 
 
 ***
 ### Normative Verweisungen

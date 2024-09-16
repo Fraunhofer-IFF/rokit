@@ -26,13 +26,13 @@ Dieses Dokument ist auf Risiken der Gefährdungen durch Quetschen anwendbar und 
 ### Tags
 
 Domäne:
-- 
+- #Domäne/Maschinen 
 
 Gefährdungen:
-- 
+- #Gefährdung/mechanisch 
 
 Einsatzgebiete:
-- 
+- #Einsatzgebiet/Industrie 
 
 ***
 ### Normative Verweisungen

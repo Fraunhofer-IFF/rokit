@@ -1,6 +1,5 @@
 ---
-tags:
-  - arbeitsstatus/todo
+tags: []
 Ausgabedatum: 2010-10-01
 Harmonisiert: false
 Gülitgkeit: false
@@ -38,13 +37,14 @@ Diese Internationale Norm legt Mindestabstände vom Schutzfeld, der Schutzfläch
 ### Tags
 
 Domäne:
-- 
+- #Domäne/Maschinen 
 
 Gefährdungen:
-- 
+- #Gefährdung/Umgebung 
+- #Gefährdung/mechanisch 
 
 Einsatzgebiete:
-- 
+- #Einsatzgebiet/Industrie 
 
 ***
 ### Normative Verweisungen

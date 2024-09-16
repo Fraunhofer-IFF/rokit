@@ -1,0 +1,179 @@
+{
+  "main": {
+    "id": "7ea6dde0fa8aab3f",
+    "type": "split",
+    "children": [
+      {
+        "id": "0dad6da5581f5ebf",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "3bbaace98e50c139",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "normen/ISO PAS 5672.md",
+                "mode": "preview",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "a8555abb4f6df0bb",
+    "type": "split",
+    "children": [
+      {
+        "id": "ca23cf4d2b6f5d2a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "512cdee1fbbc9fb6",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "413870d3014c141f",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "tag:#Kinder",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "1c761d3db5652f1c",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 270.5
+  },
+  "right": {
+    "id": "373d9cccaa0ae6e7",
+    "type": "split",
+    "children": [
+      {
+        "id": "773d1ab3809ae0b4",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "6286b4fd949b523d",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "normen/ISO PAS 5672.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "c4b20b09ec87e3a2",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "normen/ISO PAS 5672.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "da503265a35cffac",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "e63334dab82b0d20",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "normen/ISO PAS 5672.md"
+              }
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Schnellauswahl öffnen": false,
+      "graph:Graphen-Ansicht öffnen": false,
+      "canvas:Neuen Canvas erstellen": false,
+      "daily-notes:Heutige Notiz öffnen": false,
+      "templates:Vorlage einfügen": false,
+      "command-palette:Befehlspalette öffnen": false
+    }
+  },
+  "active": "3bbaace98e50c139",
+  "lastOpenFiles": [
+    "normen/ISO TR 20218-1.md",
+    "gesetze/Produktsicherheitsgesetz.md",
+    "gesetze/Maschinenrichtlinie.md",
+    "gesetze/Arbeitsschutzgesetzt.md",
+    "normen/ISO IEC Guide 50.md",
+    "normen/DIN EN 60204-1.md",
+    "normen/DIN EN 1525.md",
+    "normen/DIN EN 547.md",
+    "normen/DIN EN IEC 62061.md",
+    "normen/DIN EN ISO 4413.md",
+    "normen/DIN EN ISO 4414.md",
+    "normen/DIN EN ISO 10218-2.md",
+    "normen/DIN EN ISO 10218-1.md",
+    "normen/DIN EN ISO 11161.md",
+    "normen/DIN EN ISO 12100.md",
+    "normen/DIN EN ISO 13482.md",
+    "normen/DIN EN ISO 13849-1.md",
+    "normen/DIN EN ISO 13856.md",
+    "normen/DIN EN ISO 13854.md",
+    "normen/DIN EN ISO 13855.md",
+    "normen/DIN EN ISO 14119.md",
+    "normen/DIN EN ISO 14120.md",
+    "normen/DIN EN ISO 14122.md",
+    "normen/DIN ISO TS 15066.md",
+    "normen/ISO PAS 5672.md",
+    "templates/Norm.md",
+    "Untitled"
+  ]
+}
