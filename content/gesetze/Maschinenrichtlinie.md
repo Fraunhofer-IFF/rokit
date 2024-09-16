@@ -1,12 +1,10 @@
 ---
-tags:
-  - arbeitsstatus/todo
+tags: []
 Ausgabedatum: 2006.05.17
 Gülitgkeit: true
 Deutsch verfügbar: true
 Englisch verfügbar: true
 Frei verfügbar: true
-
 ---
 
 # RICHTLINIE 2006/42/EG
@@ -33,13 +31,15 @@ g) unvollständige Maschinen.
 ### Tags
 
 Domäne:
-- #Maschinen
+- #Domäne/Maschinen 
 
 Gefährdungen:
 - 
 
 Einsatzgebiete:
-- 
+- #Einsatzgebiet/Industrie 
+- #Einsatzgebiet/Öffentlichkeit 
+- #Einsatzgebiet/Privat 
 
 ***
 ### Relevante Verordnungen

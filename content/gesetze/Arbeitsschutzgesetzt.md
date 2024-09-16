@@ -1,6 +1,5 @@
 ---
-tags:
-  - arbeitsstatus/todo
+tags: []
 Ausgabedatum: 1996-08-07
 Gülitgkeit: true
 Deutsch verfügbar: true
@@ -33,7 +32,8 @@ Gefährdungen:
 - 
 
 Einsatzgebiete:
-- 
+- #Einsatzgebiet/Industrie 
+- #Einsatzgebiet/Öffentlichkeit 
 
 ***
 ### Relevante Verordnungen

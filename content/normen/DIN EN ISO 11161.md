@@ -1,6 +1,5 @@
 ---
-tags:
-  - arbeitsstatus/todo
+tags: []
 Ausgabedatum: 
 Harmonisiert: false
 Gülitgkeit: true
@@ -35,44 +34,44 @@ Akustische Geräuschemissionen könnten als signifikante Gefährdung eingestuft 
 ### Tags
 
 Domäne:
-- 
+- #Domäne/Maschinen 
 
 Gefährdungen:
 - 
 
 Einsatzgebiete:
-- 
+- #Einsatzgebiet/Industrie 
 
 ***
 ### Normative Verweisungen
 
-ISO 4413:2010, Hydraulic fluid power — General rules and safety requirements for systems and their components  
+[[DIN EN ISO 4413|ISO 4413]]:2010, Hydraulic fluid power — General rules and safety requirements for systems and their components  
 
-ISO 4414:2010, Pneumatic fluid power — General rules and safety requirements for systems and their components
+[[DIN EN ISO 4414|ISO 4414]]:2010, Pneumatic fluid power — General rules and safety requirements for systems and their components
 
 ISO 11553 (all parts), Safety of machinery — Laser processing machines  
 
-ISO 12100:2010, Safety of machinery — General principles for design — Risk assessment and risk reduction  
+[[DIN EN ISO 12100|ISO 12100]]:2010, Safety of machinery — General principles for design — Risk assessment and risk reduction  
 
 ISO 13732-1, Ergonomics of the thermal environment — Methods for the assessment of human responses to contact with surfaces — Part 1: Hot surfaces  
 
 ISO 13732-3, Ergonomics of the thermal environment — Methods for the assessment of human responses to contact with surfaces — Part 3: Cold surfaces  
 
-ISO 13849-1:2023, Safety of machinery — Safety-related parts of control systems — Part 1: General principles for design  
+[[DIN EN ISO 13849-1|ISO 13849-1]]:2023, Safety of machinery — Safety-related parts of control systems — Part 1: General principles for design  
 
-ISO 13850:2015, Safety of machinery — Emergency stop function — Principles for design  
+[[DIN EN ISO 13850|ISO 13850]]:2015, Safety of machinery — Emergency stop function — Principles for design  
 
-ISO 13851, Safety of machinery — Two-hand control devices — Principles for design and selection
+[[DIN EN ISO 13851|ISO 13851]], Safety of machinery — Two-hand control devices — Principles for design and selection
 
-ISO 13856 (all parts), Safety of machinery — Pressure-sensitive protective devices 
+[[DIN EN ISO 13856|ISO 13856]] (all parts), Safety of machinery — Pressure-sensitive protective devices 
 
-ISO 14118, Safety of machinery — Prevention of unexpected start-up  
+[[DIN EN ISO 14118|ISO 14118]], Safety of machinery — Prevention of unexpected start-up  
 
-ISO 14119:2023, Safety of machinery — Interlocking devices associated with guards — Principles for design and selection  
+[[DIN EN ISO 14119|ISO 14119]]:2023, Safety of machinery — Interlocking devices associated with guards — Principles for design and selection  
 
-ISO 14120, Safety of machinery — Guards — General requirements for the design and construction of fixed and movable guards  
+[[DIN EN ISO 14120|ISO 14120]], Safety of machinery — Guards — General requirements for the design and construction of fixed and movable guards  
 
-ISO 14122 (all parts), Safety of machinery — Permanent means of access to machinery  
+[[DIN EN ISO 14122|ISO 14122]] (all parts), Safety of machinery — Permanent means of access to machinery  
 
 ISO 14159, Safety of machinery — Hygiene requirements for the design of machinery 
 
@@ -80,7 +79,7 @@ ISO 19353, Safety of machinery — Fire prevention and fire protection
 
 ISO 20607:2019, Safety of machinery — Instruction handbook — General drafting principles
 
-IEC 60204-1:2016, Safety of machinery — Electrical equipment of machines — Part 1: General requirements  
+[[DIN EN 60204-1|IEC 60204-1]]:2016, Safety of machinery — Electrical equipment of machines — Part 1: General requirements  
 
 IEC 61496-1:2020, Safety of machinery — Electro-sensitive protective equipment — Part 1: General requirements and tests  
 

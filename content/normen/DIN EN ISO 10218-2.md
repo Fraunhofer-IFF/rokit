@@ -1,6 +1,5 @@
 ---
-tags:
-  - arbeitsstatus/todo
+tags: []
 Ausgabedatum: 2012-06-01
 Harmonisiert: false
 Gülitgkeit: true
@@ -32,7 +31,7 @@ Domäne:
 - #Domäne/Maschinen/Roboter 
 
 Gefährdungen:
-- #Gefährdungen
+- #Gefährdung/mechanisch 
 
 Einsatzgebiete:
 - #Einsatzgebiet/Industrie 

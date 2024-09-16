@@ -30,7 +30,7 @@ Domäne:
 - #Domäne/Maschinen/Roboter 
 
 Gefährdungen:
-- #Gefährdungen 
+- #Gefährdung/mechanisch  
 
 Einsatzgebiete:
 - #Einsatzgebiet/Industrie 

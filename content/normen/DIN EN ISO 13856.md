@@ -1,6 +1,5 @@
 ---
-tags:
-  - arbeitsstatus/todo
+tags: []
 Ausgabedatum: 2013-08-01
 Harmonisiert: false
 Gülitgkeit: true
@@ -27,36 +26,58 @@ Domäne:
 - #Domäne/Maschinen 
 
 Gefährdungen:
-- #Einsatzgebiet/Industrie 
+- #Gefährdung/mechanisch 
 
 Einsatzgebiete:
-- 
+- #Einsatzgebiet/Industrie 
 
 ***
 ### Normative Verweisungen
 
 [[DIN EN ISO 4413]], Hydraulic fluid power — General rules and safety requirements for systems and their components
+
 [[DIN EN ISO 4414]], Pneumatic fluid power — General rules and safety requirements for systems and their components
+
 [[DIN EN ISO 12100]], Safety of machinery — General principles for design — Risk assessment and risk reduction
+
 [[DIN EN ISO 13849-1]], Safety of machinery — Safety-related parts of control systems — Part 1: General principles for design
-ISO 13849-2]], Safety of machinery — Safety-related parts of control systems — Part 2: Validation
+
+[[DIN EN ISO 13849-2]], Safety of machinery — Safety-related parts of control systems — Part 2: Validation
+
 [[DIN EN ISO 13855]], Safety of machinery — Positioning of safeguards with respect to the approach speeds of parts of the human body
+
 ISO 15552, Pneumatic fluid power — Cylinders with detachable mountings, 1 000 kPa (10 bar) series, bores from 32 mm to 320 mm — Basic, mounting and accessories dimensions
+
 IEC 60068-2-6, Environmental testing — Part 2-6: Tests — Test Fc: Vibration (sinusoidal)
+
 IEC 60068-2-14, Environmental testing — Part 2-14: Tests — Test N: Change of temperature
+
 IEC 60068-2-27, Environmental testing — Part 2-27: Tests — Test Ea and guidance: Shock
+
 IEC 60068-2-78, Environmental testing — Part 2-78: Tests — Test Cab: Damp heat, steady state
+
 [[DIN EN 60204-1|IEC 60204-1]], Safety of machinery — Electrical equipment of machines — Part 1: General requirements
+
 IEC 60529, Degrees of protection provided by enclosures (IP code)
+
 IEC 60664-1:2007, Insulation coordination for equipment within low-voltage systems — Part 1: Principles, requirements and tests
+
 IEC 60947-5-1, Low-voltage switchgear and controlgear — Part 5-1: Control circuit devices and switching elements — Electromechanical control circuit devices
+
 IEC 60947-5-5:1997, Low-voltage switchgear and controlgear — Part 5-5: Control circuit devices and switching elements — Electrical emergency stop device with mechanical latching function
+
 IEC 61000-4-2, Electromagnetic compatibility (EMC) — Part 4-2: Testing and measuring techniques — Electrostatic discharge immunity test
+
 IEC 61000-4-3, Electromagnetic compatibility (EMC) — Part 4-3: Testing and measurement techniques — Radiated, radio-frequency, electromagnetic field immunity test
+
 IEC 61000-4-4, Electromagnetic compatibility (EMC) — Part 4-4: Testing and measurement techniques — Electrical fast transient/burst immunity test
+
 IEC 61000-4-5, Electromagnetic compatibility (EMC) — Part 4-5: Testing and measurement techniques — Surge immunity test
+
 IEC 61000-4-6, Electromagnetic compatibility (EMC) — Part 4-6: Testing and measurement techniques — Immunity to conducted disturbances, induced by radio-frequency fields
+
 IEC 61000-6-2, Electromagnetic compatibility (EMC) — Part 6-2: Generic standards — Immunity for industrial environments
+
 IEC 61439-1:2009, Low-voltage switchgear and controlgear assemblies — Part 1: General rules
 ***
 ### Weiterführende Informationen

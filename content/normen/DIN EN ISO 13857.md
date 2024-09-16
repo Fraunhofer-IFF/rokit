@@ -1,6 +1,5 @@
 ---
-tags:
-  - arbeitsstatus/todo
+tags: []
 Ausgabedatum: 
 Harmonisiert: false
 Gülitgkeit: false
@@ -34,13 +33,15 @@ Die Sicherheitsabstände sind vorgesehen solche Personen zu schützen, die unter
 ### Tags
 
 Domäne:
-- 
+- #Domäne/Maschinen 
 
 Gefährdungen:
-- 
+- #Gefährdung/mechanisch 
+- #Gefährdung/elektrisch 
+- #Gefährdung/thermisch 
 
 Einsatzgebiete:
-- 
+- #Einsatzgebiet/Industrie 
 
 ***
 ### Normative Verweisungen
