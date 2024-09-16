@@ -1,6 +1,5 @@
 ---
-tags:
-  - arbeitsstatus/todo
+tags: []
 Ausgabedatum: 2016-10-01
 Harmonisiert: false
 Gülitgkeit: true
@@ -30,21 +29,31 @@ Gefährdungen:
 - 
 
 Einsatzgebiete:
-- 
+- #Einsatzgebiet/Industrie 
 
 ***
 ### Normative Verweisungen
 
 [[DIN EN ISO 12100]], Safety of machinery — General principles for design — Risk assessment and risk reduction
+
 [[DIN EN ISO 13857]], Safety of machinery — Safety distances to prevent hazard zones being reached by upper and lower limbs
+
 [[DIN EN ISO 14120]], Safety of machinery — Guards — General requirements for the design and construction of fixed and movable guards
+
 ISO 15534-1:2000, Ergonomic design for the safety of machinery — Part 1: Principles for determining the dimensions required for openings for whole-body access into machinery
+
 ISO 15534-3:2000, Ergonomic design for the safety of machinery — Part 3: Anthropometric data
+
 ISO 14122‐1:2016, Safety of machinery — Permanent means of access to machinery — Part 1: Choice of fixed means of access and general requirements of access
+
 ISO 14122‐2:2016, Safety of machinery — Permanent means of access to machinery — Part 2: Working platforms and walkways
+
 ISO 14122-3:2016, Safety of machinery — Permanents means of access to machines — Part 3: Stairs, stepladders and guard-rails
+
 ISO 14122-4:2016, Safety of machinery — Permanent means of access to machine — Part 4: Fixed ladders 
+
 EN 353‐1:2014, Persönliche Schutzausrüstung gegen Absturz — Mitlaufende Auffanggeräte einschließlich einer Führung — Teil 1: Mitlaufende Auffanggeräte einschließlich fester Führung
+
 EN 795, Persönliche Absturzschutzausrüstung— Anschlageinrichtungen
 ***
 ### Weiterführende Informationen

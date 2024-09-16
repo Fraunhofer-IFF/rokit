@@ -1,6 +1,5 @@
 ---
-tags:
-  - arbeitsstatus/todo
+tags: []
 Ausgabedatum: 1997-12-01
 Harmonisiert: false
 Gülitgkeit: false
@@ -55,13 +54,14 @@ f) Teile des Flurförderzeuges, die während des Betriebes manuelle Eingriffe er
 ### Tags
 
 Domäne:
-- 
+- #Domäne/Maschinen 
+- #Domäne/Maschinen/Flurförderfahrzeuge 
 
 Gefährdungen:
-- 
+- #Gefährdung/mechanisch
 
 Einsatzgebiete:
-- 
+- #Einsatzgebiet/Industrie 
 
 ***
 ### Normative Verweisungen

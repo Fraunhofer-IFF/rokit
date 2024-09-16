@@ -1,12 +1,10 @@
 ---
-tags:
-  - arbeitsstatus/todo
+tags: []
 Ausgabedatum: 21.07.20
 Gülitgkeit: true
 Deutsch verfügbar: true
 Englisch verfügbar: false
 Frei verfügbar: true
-
 ---
 
 # ProdSG
@@ -28,13 +26,15 @@ Dieses Gesetz ist anzuwenden, wenn im Rahmen einer Geschäftstätigkeit Produkte
 ### Tags
 
 Domäne:
-- #Maschinen 
+- #Domäne/Maschinen 
 
 Gefährdungen:
 - 
 
 Einsatzgebiete:
-- 
+- #Einsatzgebiet/Industrie 
+- #Einsatzgebiet/Öffentlichkeit 
+- #Einsatzgebiet/Privat 
 
 ***
 ### Relevante Verordnungen

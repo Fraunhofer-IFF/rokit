@@ -1,6 +1,5 @@
 ---
-tags:
-  - arbeitsstatus/todo
+tags: []
 Ausgabedatum: 2023-02-01
 Harmonisiert: false
 Gülitgkeit: true
@@ -28,7 +27,8 @@ Domäne:
 - #Domäne/Maschinen 
 
 Gefährdungen:
-- 
+- #Gefährdung/Ausfall_einer_Sicherheitsfunktion 
+- #Gefährdung/Fehlfunktion_eines_technischen_Systems 
 
 Einsatzgebiete:
 - #Einsatzgebiet/Industrie 

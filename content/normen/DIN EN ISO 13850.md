@@ -1,6 +1,5 @@
 ---
-tags:
-  - arbeitsstatus/todo
+tags: []
 Ausgabedatum: 2016-05-01
 Harmonisiert: false
 Gülitgkeit: true
@@ -28,13 +27,14 @@ Die Anforderungen dieser Internationalen Norm gelten für alle Maschinen, mit Au
 ### Tags
 
 Domäne:
-- 
+- #Domäne/Maschinen 
 
 Gefährdungen:
 - 
 
 Einsatzgebiete:
-- 
+- #Einsatzgebiet/Industrie 
+
 
 ***
 ### Normative Verweisungen

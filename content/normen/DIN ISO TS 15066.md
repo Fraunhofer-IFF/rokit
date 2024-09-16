@@ -1,6 +1,5 @@
 ---
-tags:
-  - arbeitsstatus/todo
+tags: []
 Ausgabedatum: 2017-04-01
 Harmonisiert: false
 Gülitgkeit: true
@@ -30,6 +29,7 @@ Domäne:
 
 Gefährdungen:
 - #Gefährdungen/Kollisionen 
+- #Gefährdung/mechanisch 
 
 Einsatzgebiete:
 - #Einsatzgebiet/Industrie 
