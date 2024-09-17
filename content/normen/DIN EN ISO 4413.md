@@ -77,9 +77,9 @@ ISO 10763, Hydraulic fluid power — Plain-end, seamless and welded precision st
 
 [[DIN EN ISO 12100]]:2010, Safety of machinery — General principles for design — Risk assessment and risk reduction
 
-[[DIN ENISO 13850]], Safety of machinery — Emergency stop — Principles for design
+[[DIN EN ISO 13850]], Safety of machinery — Emergency stop — Principles for design
 
-[[DIN ENISO 13851]], Safety of machinery — Two-hand control devices — Functional aspects and design principles
+[[DIN EN ISO 13851]], Safety of machinery — Two-hand control devices — Functional aspects and design principles
 
 ISO 16874, Hydraulic fluid power — Identification of manifold assemblies and their components
 

@@ -41,4 +41,4 @@ Einsatzgebiete:
 
 
 
-[![[rokit_banner.png|300]]](https://public-robots.de/)
+[![[rokit_banner.png]]](https://public-robots.de/)
