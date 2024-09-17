@@ -8,7 +8,7 @@ Frei verfügbar: true
 ---
 
 # ArbSchG
-## Arbeitsschutzgesetzt
+## Arbeitsschutzgesetz
 
 Geltungsbereich: [[Bundesrepublik Deutschland]]
 Dokumententyp: [[Bundesgesetz]]
