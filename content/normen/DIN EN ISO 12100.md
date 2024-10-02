@@ -48,6 +48,7 @@ Gefährdungen:
 - #Gefährdung/Ergonomie
 - #Gefährdung/Umgebung
 - #Gefährdung/Kombination
+- #Gefährdung/Divers 
 
 Einsatzgebiete:
 - #Einsatzgebiet/Industrie 

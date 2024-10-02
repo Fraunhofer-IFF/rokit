@@ -37,13 +37,13 @@ Für diese Norm ist das Gremium NA 095-01-03 GA "Gemeinschaftsarbeitsausschuss N
 ### Tags
 
 Domäne:
-- 
+- #Domäne/Maschinen 
 
 Gefährdungen:
-- 
+- #Gefährdung/Divers 
 
 Einsatzgebiete:
-- 
+- #Einsatzgebiet/Industrie 
 
 ***
 ### Normative Verweisungen

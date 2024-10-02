@@ -31,6 +31,7 @@ Domäne:
 Gefährdungen:
 - #Gefährdung/Fehlfunktion_eines_technischen_Systems
 - #Gefährdung/Ausfall_einer_Sicherheitsfunktion
+- #Gefährdung/Divers 
 
 Einsatzgebiete:
 - #Einsatzgebiet/Industrie 

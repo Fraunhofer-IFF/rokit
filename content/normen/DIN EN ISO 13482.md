@@ -42,10 +42,11 @@ Gefährdungsereignisse wie in Anhang A beschrieben. Es wird darauf hingewiesen, 
 
 Domäne:
 - #Domäne/Maschinen 
-- #Domäne/Maschinen/Assistenzroboter 
+- #Domäne/Maschinen/Assistenzroboter
+- #Domäne/Maschinen/Roboter 
 
 Gefährdungen:
-- 
+- #Gefährdung/Divers 
 
 Einsatzgebiete:
 - #Einsatzgebiet/Industrie 

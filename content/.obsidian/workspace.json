@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "0dad6da5581f5ebf",
+        "id": "acbcf8fb6cbf43fa",
         "type": "tabs",
         "children": [
           {
-            "id": "3bbaace98e50c139",
+            "id": "200662acc8bc4e93",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "normen/ISO PAS 5672.md",
-                "mode": "preview",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -48,7 +44,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#Kinder",
+                "query": "tag:#Gefährdung/Fehlfunktion_eines_technischen_Systems",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -85,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "normen/ISO PAS 5672.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "normen/ISO PAS 5672.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,13 +118,10 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "normen/ISO PAS 5672.md"
-              }
+              "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -146,34 +137,36 @@
       "command-palette:Befehlspalette öffnen": false
     }
   },
-  "active": "3bbaace98e50c139",
+  "active": "200662acc8bc4e93",
   "lastOpenFiles": [
-    "normen/ISO TR 20218-1.md",
-    "gesetze/Produktsicherheitsgesetz.md",
-    "gesetze/Maschinenrichtlinie.md",
-    "gesetze/Arbeitsschutzgesetzt.md",
-    "normen/ISO IEC Guide 50.md",
-    "normen/DIN EN 60204-1.md",
-    "normen/DIN EN 1525.md",
-    "normen/DIN EN 547.md",
-    "normen/DIN EN IEC 62061.md",
-    "normen/DIN EN ISO 4413.md",
-    "normen/DIN EN ISO 4414.md",
-    "normen/DIN EN ISO 10218-2.md",
-    "normen/DIN EN ISO 10218-1.md",
-    "normen/DIN EN ISO 11161.md",
-    "normen/DIN EN ISO 12100.md",
-    "normen/DIN EN ISO 13482.md",
-    "normen/DIN EN ISO 13849-1.md",
-    "normen/DIN EN ISO 13856.md",
-    "normen/DIN EN ISO 13854.md",
-    "normen/DIN EN ISO 13855.md",
-    "normen/DIN EN ISO 14119.md",
-    "normen/DIN EN ISO 14120.md",
-    "normen/DIN EN ISO 14122.md",
-    "normen/DIN ISO TS 15066.md",
-    "normen/ISO PAS 5672.md",
+    "Normen/DIN EN ISO 3691-4.md",
+    "Normen/DIN EN IEC 63327.md",
+    "templates/Gesetz.md",
     "templates/Norm.md",
+    "templates/Gremien.md",
+    "Normen/DIN EN ISO 13482.md",
+    "Normen/DIN EN ISO 13857.md",
+    "Normen/DIN EN 547.md",
+    "Normen/DIN EN ISO 13849-1.md",
+    "Normen/DIN EN IEC 62061.md",
+    "Normen/DIN EN ISO 4413.md",
+    "Normen/DIN EN ISO 14122.md",
+    "Normen/DIN EN ISO 12100.md",
+    "Normen/DIN EN ISO 10218-1.md",
+    "templates/Dokumententyp.md",
+    "Normen/ISO IEC TR 24028.md",
+    "Normen/ISO IEC 22989.md",
+    "Normen/DIN SPEC 92005.md",
+    "Normen/ISO IEC Guide 50.md",
+    "Normen/DIN EN ISO 10218-2.md",
+    "Normen/DIN EN ISO 4414.md",
+    "Normen/DIN EN 60204-1.md",
+    "Normen/DIN EN 1525.md",
+    "Normen/DIN EN ISO 11161.md",
+    "Normen/DIN EN ISO 13849-2.md",
+    "Normen/DIN EN ISO 13850.md",
+    "Gesetze",
+    "Normen",
     "Untitled"
   ]
 }
