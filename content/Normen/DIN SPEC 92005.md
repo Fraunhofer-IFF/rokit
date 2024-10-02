@@ -13,7 +13,9 @@ Frei verfügbar: true
 ## Uncertainty quantification in machine learning
 
 Gremium: Keins (DIN SPEC / ISO PAS Verfahren)
+
 Dokumententyp: [[DIN SPEC]]
+
 [![[rokit_logo.png|200]]](https://public-robots.de/)
 
 ***

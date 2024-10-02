@@ -12,7 +12,9 @@ Frei verfügbar: false
 ## Sicherheit von Maschinen - Sicherheitsbezogene Teile von Steuerungen - Teil 1: Allgemeine Gestaltungsleitsätze
 
 Gremium: [[ISO/TC 199]] [[CEN/TC 114]]
+
 Dokumententyp: [[B1-Norm]]
+
 [![[rokit_logo.png|200]]](https://public-robots.de/)
 
 ***

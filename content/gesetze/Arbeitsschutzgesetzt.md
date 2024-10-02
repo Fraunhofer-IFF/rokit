@@ -26,10 +26,10 @@ Dieses Gesetz dient dazu, Sicherheit und Gesundheitsschutz der Beschäftigten be
 ### Tags
 
 Domäne:
-- 
+- #Domäne 
 
 Gefährdungen:
-- 
+- #Gefährdung 
 
 Einsatzgebiete:
 - #Einsatzgebiet/Industrie 

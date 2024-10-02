@@ -12,7 +12,9 @@ Frei verfügbar: false
 ## Sicherheit von Maschinen - Mindestabstände zur Vermeidung des Quetschens von Körperteilen
 
 Gremium: [[ISO/TC 199]]
+
 Dokumententyp: [[B1-Norm]]
+
 [![[rokit_logo.png|200]]](https://public-robots.de/)
 
 ***

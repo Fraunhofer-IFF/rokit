@@ -12,7 +12,9 @@ Frei verfügbar: false
 ## Sicherheit von Maschinen - Funktionale Sicherheit sicherheitsbezogener Steuerungssysteme
 
 Gremium: [[IEC/TC 44]]
-Dokumententyp: [[]]
+
+Dokumententyp: 
+
 [![[rokit_logo.png|200]]](https://public-robots.de/)
 
 ***

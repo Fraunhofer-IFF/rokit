@@ -12,7 +12,9 @@ Frei verfügbar: false
 ## Roboter und Robotikgeräte - Sicherheitsanforderungen für persönliche Assistenzroboter
 
 Gremium: [[ISO/TC 184]]
+
 Dokumententyp: [[C-Norm]]
+
 [![[rokit_logo.png|200]]](https://public-robots.de/)
 
 ***

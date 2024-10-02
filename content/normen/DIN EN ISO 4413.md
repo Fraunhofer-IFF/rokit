@@ -12,7 +12,9 @@ Frei verfügbar: false
 ## Fluidtechnik – Allgemeine Regeln und sicherheitstechnische Anforderungen an Hydraulikanlagen und deren Bauteile
 
 Gremium: [[ISO/TC 131]] [[CEN/TC 114]]
-Dokumententyp: [[]]
+
+Dokumententyp: 
+
 [![[rokit_logo.png|200]]](https://public-robots.de/)
 
 ***

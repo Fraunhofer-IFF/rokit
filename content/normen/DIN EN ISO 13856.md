@@ -12,7 +12,9 @@ Frei verfügbar: false
 ## Sicherheit von Maschinen - Druckempfindliche Schutzeinrichtungen - Teil 1: Allgemeine Leitsätze für die Gestaltung und Prüfung von Schaltmatten und Schaltplatten - Teil 2: Allgemeine Leitsätze für die Gestaltung und Prüfung von Schaltleisten und Schaltstangen - Teil 3: Allgemeine Leitsätze für die Gestaltung und Prüfung von Schaltpuffern, Schaltflächen, Schaltleinen und ähnlichen Einrichtungen
 
 Gremium: [[ISO/TC 199]] [[CEN/TC 114]]
+
 Dokumententyp: [[B2-Norm]]
+
 [![[rokit_logo.png|200]]](https://public-robots.de/)
 
 ***

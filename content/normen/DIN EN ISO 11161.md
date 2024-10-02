@@ -12,7 +12,9 @@ Frei verfügbar: false
 ## Sicherheit von Maschinen - Integrierte Fertigungssysteme - Grundlegende Anforderungen
 
 Gremium: [[ISO/TC 199]]
+
 Dokumententyp: [[Type B1]]
+
 [![[rokit_logo.png|200]]](https://public-robots.de/)
 
 ***

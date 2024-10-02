@@ -11,8 +11,10 @@ Frei verfügbar: false
 # DIN EN IEC 63327
 ## Automatische Bodenbehandlungsmaschinen für den gewerblichen Gebrauch
 
-Gremium: [[]]
-Dokumententyp: [[]]
+Gremium: 
+
+Dokumententyp: 
+
 [![[rokit_logo.png|200]]](https://public-robots.de/)
 
 ***
