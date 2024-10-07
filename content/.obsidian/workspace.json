@@ -13,9 +13,9 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Normen/DIN EN ISO 10218-2.md",
+                "file": "Allgemeines/Wirtschaftlichkeit.md",
                 "mode": "source",
-                "source": false
+                "source": true
               }
             }
           }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Normen/DIN EN ISO 10218-2.md",
+                "file": "Allgemeines/Wirtschaftlichkeit.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Normen/DIN EN ISO 10218-2.md",
+                "file": "Allgemeines/Wirtschaftlichkeit.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Normen/DIN EN ISO 10218-2.md"
+                "file": "Allgemeines/Wirtschaftlichkeit.md"
               }
             }
           }
@@ -147,6 +147,11 @@
   },
   "active": "a2a46995d7ef51eb",
   "lastOpenFiles": [
+    "Normen/DIN ISO TS 15066.md",
+    "Allgemeines/Wirtschaftlichkeit.md",
+    "medien/Lebenszykluskosten.png",
+    "Normen/DIN EN ISO 10218-2.md",
+    "Allgemeines",
     "Normen/DIN EN IEC 62061.md",
     "Normen/DIN EN 547.md",
     "Normen/ISO IEC TR 24028.md",
@@ -159,7 +164,6 @@
     "Normen/DIN EN ISO 13849-2.md",
     "Normen/DIN EN ISO 13849-1.md",
     "Normen/DIN EN ISO 10218-1.md",
-    "Normen/DIN EN ISO 10218-2.md",
     "Normen/DIN EN ISO 4413.md",
     "Normen/DIN EN IEC 63327.md",
     "Normen/DIN EN 60204-1.md",
@@ -167,12 +171,9 @@
     "Normen/ISO IEC 22989.md",
     "Normen/ISO TR 20218-1.md",
     "Normen/ISO IEC Guide 50.md",
-    "Normen/DIN ISO TS 15066.md",
     "Normen/DIN EN ISO 14122.md",
     "Normen/DIN EN ISO 14120.md",
     "Normen/DIN EN ISO 14119.md",
-    "Normen/DIN EN ISO 14118.md",
-    "Normen/DIN EN ISO 13857.md",
     "medien/rokit_banner.png",
     "medien/rokit_logo.png",
     "Gesetze",
