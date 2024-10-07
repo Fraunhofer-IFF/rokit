@@ -12,7 +12,9 @@ Frei verfügbar: true
 ## Artificial intelligence concepts and terminology
 
 Gremium: [[ISO/IEC JTC 1 SC 42]]
+
 Dokumententyp: [[International Standard]]
+
 [![[rokit_logo.png|200]]](https://public-robots.de/)
 
 ***

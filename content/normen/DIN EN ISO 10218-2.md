@@ -12,7 +12,9 @@ Frei Verfügbar: false
 ## Industrieroboter - Sicherheitsanforderungen - Teil 2: Robotersysteme und Integration
 
 Gremium: [[ISO/TC 299]]
+
 Dokumententyp: [[C-Norm]]
+
 [![[rokit_logo.png|200]]](https://public-robots.de/)
 ***
 ### Anwendungsbereich

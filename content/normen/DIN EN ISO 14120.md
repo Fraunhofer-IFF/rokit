@@ -12,7 +12,9 @@ Frei verfügbar: false
 ## Sicherheit von Maschinen – Trennende Schutzeinrichtungen – Allgemeine Anforderungen an Gestaltung und Bau von feststehenden und beweglichen trennenden Schutzeinrichtungen
 
 Gremium: [[ISO/TC 299]] [[CEN/TC 114]]
+
 Dokumententyp: [[B2-Norm]]
+
 [![[rokit_logo.png|200]]](https://public-robots.de/)
 
 ***

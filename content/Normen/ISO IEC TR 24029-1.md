@@ -13,7 +13,9 @@ Frei verfügbar: false
 ## Assessment of the robustness of neural networks - Overview
 
 Gremium: [[ISO/IEC JTC 1 SC 42]]
+
 Dokumententyp: [[Technical Report]]
+
 [![[rokit_logo.png|200]]](https://public-robots.de/)
 
 ***

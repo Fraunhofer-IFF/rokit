@@ -12,7 +12,9 @@ Frei verfügbar: false
 ## Sicherheit von Maschinen - Verriegelungseinrichtungen in Verbindung mit trennenden Schutzeinrichtungen - Leitsätze für Gestaltung und Auswahl
 
 Gremium: [[ISO/TC 299]] [[CEN/TC 114]]
+
 Dokumententyp: [[B2-Norm]]
+
 [![[rokit_logo.png|200]]](https://public-robots.de/)
 
 ***

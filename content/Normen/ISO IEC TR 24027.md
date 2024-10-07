@@ -13,7 +13,9 @@ Frei verfügbar: false
 ## Bias in AI systems and AI aided decision making
 
 Gremium: [[ISO/IEC JTC 1 SC 42]]
+
 Dokumententyp: [[Technical Report]]
+
 [![[rokit_logo.png|200]]](https://public-robots.de/)
 
 ***

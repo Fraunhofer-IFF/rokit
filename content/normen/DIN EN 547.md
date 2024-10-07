@@ -11,8 +11,10 @@ Frei verfügbar: false
 # DIN EN 547-1-2-3
 ## Sicherheit von Maschinen - Körpermaße des Menschen - Teil 1: Grundlagen zur Bestimmung von Abmessungen für Ganzkörper-Zugänge an Maschinenarbeitsplätzen - Teil 2: Grundlagen für die Bemessung von Zugangsöffnungen  - Teil 3: Körpermaßdaten
 
-Gremium: [[]]
-Dokumententyp: [[]]
+Gremium:
+
+Dokumententyp: 
+
 [![[rokit_logo.png|200]]](https://public-robots.de/)
 
 ***

@@ -11,8 +11,10 @@ Frei verfügbar: false
 # ISO IEC IEEE TR 29119-11
 ## Guidelines on the testing of AI-based systems
 
-Gremium: [ISO/IEC JTC 1 SC 42[]]
+Gremium: [[ISO/IEC JTC 1 SC 42]]
+
 Dokumententyp: [[Technical Report]]
+
 [![[rokit_logo.png|200]]](https://public-robots.de/)
 
 ***

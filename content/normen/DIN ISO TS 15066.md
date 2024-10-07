@@ -12,7 +12,9 @@ Frei Verfügbar: false
 ## Roboter und Robotikgeräte - Kollaborierende Roboter
 
 Gremium: [[ISO/TC 299]]
+
 Dokumententyp: [[C-Norm]]
+
 [![[rokit_logo.png|200]]](https://public-robots.de/)
 ***
 ### Anwendungsbereich
@@ -28,7 +30,7 @@ Domäne:
 - #Domäne/Maschinen/Roboter/Cobot 
 
 Gefährdungen:
-- #Gefährdungen/Kollisionen 
+- #Gefährdung/Kollisionen 
 - #Gefährdung/mechanisch 
 
 Einsatzgebiete:

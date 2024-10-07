@@ -12,7 +12,9 @@ Frei verfügbar: false
 ## Overview of trustworthiness in artificial intelligence
 
 Gremium: [[ISO/IEC JTC 1 SC 42]]
+
 Dokumententyp: [[Technical Report]]
+
 [![[rokit_logo.png|200]]](https://public-robots.de/)
 
 ***
