@@ -14,8 +14,8 @@
               "type": "markdown",
               "state": {
                 "file": "Allgemeines/Wirtschaftlichkeit.md",
-                "mode": "source",
-                "source": true
+                "mode": "preview",
+                "source": false
               }
             }
           }
@@ -147,8 +147,13 @@
   },
   "active": "a2a46995d7ef51eb",
   "lastOpenFiles": [
-    "Normen/DIN ISO TS 15066.md",
+    "Allgemeines/Gefährdungsbeurteilung.md",
     "Allgemeines/Wirtschaftlichkeit.md",
+    "Gesetze/Arbeitsschutzgesetzt.md",
+    "medien/Gefaehrdungsbeurteilung.png",
+    "medien/Gefaehrdungsbeurteilung 1.jfif",
+    "medien/Gefaehrdungsbeurteilung.jfif",
+    "Normen/DIN ISO TS 15066.md",
     "medien/Lebenszykluskosten.png",
     "Normen/DIN EN ISO 10218-2.md",
     "Allgemeines",
@@ -173,7 +178,6 @@
     "Normen/ISO IEC Guide 50.md",
     "Normen/DIN EN ISO 14122.md",
     "Normen/DIN EN ISO 14120.md",
-    "Normen/DIN EN ISO 14119.md",
     "medien/rokit_banner.png",
     "medien/rokit_logo.png",
     "Gesetze",

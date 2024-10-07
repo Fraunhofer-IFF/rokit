@@ -50,4 +50,4 @@ VDI 2710: Blatt 4: Analyse der Wirtschaftlichkeit Fahrerloser Transportsysteme (
 [Hägele et al. (2011): Wirtschaftlichkeitsanalysen neuartiger Servicerobotik Anwendungen und ihre Bedeutung für die Robotik-Entwicklung](https://publica.fraunhofer.de/entities/publication/e4e83256-50b8-492f-a7ab-d08264955d3d/details)
 
 
-[![[rokit_banner.png|300]]](https://public-robots.de/)
+[![[rokit_banner.png]]](https://public-robots.de/)
