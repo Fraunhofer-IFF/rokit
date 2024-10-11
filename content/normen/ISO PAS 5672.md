@@ -13,7 +13,9 @@ Frei verfügbar: false
 ### Robotik - Kollaborative Anwendungen - Prüfverfahren zur Messung von Kräften und Drücken bei Mensch-Roboter-Kontakten
 
 Gremium: [[ISO/TC 299]]
-Dokumententyp: [[]]
+
+Dokumententyp: 
+
 [![[rokit_logo.png|200]]](https://public-robots.de/)
 
 ***
@@ -33,6 +35,7 @@ Domäne:
 
 Gefährdungen:
 - #Gefährdungen/Kollisionen 
+- #Gefährdung/mechanisch 
 
 Einsatzgebiete:
 - #Einsatzgebiet/Industrie 

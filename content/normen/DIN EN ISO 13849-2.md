@@ -12,7 +12,9 @@ Frei verfügbar: false
 ## Sicherheit von Maschinen - Sicherheitsbezogene Teile von Steuerungen - Teil 2: Validierung
 
 Gremium: [[ISO/TC 199]] [[CEN/TC 114]]
+
 Dokumententyp: [[B1-Norm]]
+
 [![[rokit_logo.png|200]]](https://public-robots.de/)
 
 ***
@@ -37,13 +39,13 @@ Für diese Norm ist das Gremium NA 095-01-03 GA "Gemeinschaftsarbeitsausschuss N
 ### Tags
 
 Domäne:
-- 
+- #Domäne/Maschinen 
 
 Gefährdungen:
-- 
+- #Gefährdung/Divers 
 
 Einsatzgebiete:
-- 
+- #Einsatzgebiet/Industrie 
 
 ***
 ### Normative Verweisungen

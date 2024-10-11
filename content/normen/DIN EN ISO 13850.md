@@ -12,7 +12,9 @@ Frei verfügbar: false
 ## Sicherheit von Maschinen - Not-Halt-Funktion - Gestaltungsleitsätze
 
 Gremium: [[ISO/TC 199]]
+
 Dokumententyp: [[B2-Norm]]
+
 [![[rokit_logo.png|200]]](https://public-robots.de/)
 
 ***
@@ -30,7 +32,7 @@ Domäne:
 - #Domäne/Maschinen 
 
 Gefährdungen:
-- 
+- #Gefährdung/Divers 
 
 Einsatzgebiete:
 - #Einsatzgebiet/Industrie 

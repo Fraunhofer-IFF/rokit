@@ -12,7 +12,9 @@ Frei verfügbar: false
 ## Sicherheit von Flurförderzeugen
 
 Gremium: [[CEN/TC150]]
+
 Dokumententyp: [[Typ C]]
+
 [![[rokit_logo.png|200]]](https://public-robots.de/)
 
 ***

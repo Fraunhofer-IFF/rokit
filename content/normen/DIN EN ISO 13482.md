@@ -12,7 +12,9 @@ Frei verfügbar: false
 ## Roboter und Robotikgeräte - Sicherheitsanforderungen für persönliche Assistenzroboter
 
 Gremium: [[ISO/TC 184]]
+
 Dokumententyp: [[C-Norm]]
+
 [![[rokit_logo.png|200]]](https://public-robots.de/)
 
 ***
@@ -42,10 +44,11 @@ Gefährdungsereignisse wie in Anhang A beschrieben. Es wird darauf hingewiesen, 
 
 Domäne:
 - #Domäne/Maschinen 
-- #Domäne/Maschinen/Assistenzroboter 
+- #Domäne/Maschinen/Assistenzroboter
+- #Domäne/Maschinen/Roboter 
 
 Gefährdungen:
-- 
+- #Gefährdung/Divers 
 
 Einsatzgebiete:
 - #Einsatzgebiet/Industrie 

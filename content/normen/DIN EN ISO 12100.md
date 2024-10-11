@@ -12,7 +12,9 @@ Frei verfügbar: false
 ## Sicherheit von Maschinen - Allgemeine Gestaltungsleitsätze - Risikobeurteilung und Risikominderung
 
 Gremium: [[ISO/TC 199]]
+
 Dokumententyp: [[A-Norm]]
+
 [![[rokit_logo.png|200]]](https://public-robots.de/)
 
 ***
@@ -48,6 +50,7 @@ Gefährdungen:
 - #Gefährdung/Ergonomie
 - #Gefährdung/Umgebung
 - #Gefährdung/Kombination
+- #Gefährdung/Divers 
 
 Einsatzgebiete:
 - #Einsatzgebiet/Industrie 

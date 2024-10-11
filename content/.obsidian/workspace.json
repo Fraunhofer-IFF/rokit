@@ -4,17 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "0dad6da5581f5ebf",
+        "id": "89ecf7d567878d95",
         "type": "tabs",
         "children": [
           {
-            "id": "3bbaace98e50c139",
+            "id": "c62558b998c03fe3",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "normen/ISO PAS 5672.md",
-                "mode": "preview",
+                "file": "Allgemeines/Rechtsrahmen.md",
+                "mode": "source",
                 "source": false
               }
             }
@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#Kinder",
+                "query": "tag:#Gefährdung/Fehlfunktion_eines_technischen_Systems",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -69,7 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 270.5
+    "width": 266.5124969482422
   },
   "right": {
     "id": "373d9cccaa0ae6e7",
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "normen/ISO PAS 5672.md",
+                "file": "Allgemeines/Rechtsrahmen.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "normen/ISO PAS 5672.md",
+                "file": "Allgemeines/Rechtsrahmen.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,12 +125,11 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "normen/ISO PAS 5672.md"
+                "file": "Allgemeines/Rechtsrahmen.md"
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -146,34 +145,43 @@
       "command-palette:Befehlspalette öffnen": false
     }
   },
-  "active": "3bbaace98e50c139",
+  "active": "c62558b998c03fe3",
   "lastOpenFiles": [
-    "normen/ISO TR 20218-1.md",
-    "gesetze/Produktsicherheitsgesetz.md",
-    "gesetze/Maschinenrichtlinie.md",
-    "gesetze/Arbeitsschutzgesetzt.md",
-    "normen/ISO IEC Guide 50.md",
-    "normen/DIN EN 60204-1.md",
-    "normen/DIN EN 1525.md",
-    "normen/DIN EN 547.md",
-    "normen/DIN EN IEC 62061.md",
-    "normen/DIN EN ISO 4413.md",
-    "normen/DIN EN ISO 4414.md",
-    "normen/DIN EN ISO 10218-2.md",
-    "normen/DIN EN ISO 10218-1.md",
-    "normen/DIN EN ISO 11161.md",
-    "normen/DIN EN ISO 12100.md",
-    "normen/DIN EN ISO 13482.md",
-    "normen/DIN EN ISO 13849-1.md",
-    "normen/DIN EN ISO 13856.md",
-    "normen/DIN EN ISO 13854.md",
-    "normen/DIN EN ISO 13855.md",
-    "normen/DIN EN ISO 14119.md",
-    "normen/DIN EN ISO 14120.md",
-    "normen/DIN EN ISO 14122.md",
-    "normen/DIN ISO TS 15066.md",
-    "normen/ISO PAS 5672.md",
-    "templates/Norm.md",
+    "Allgemeines/Gefährdungsbeurteilung.md",
+    "Allgemeines/Rechtsrahmen.md",
+    "Allgemeines/Wirtschaftlichkeit.md",
+    "Gesetze/Arbeitsschutzgesetzt.md",
+    "Gesetze/Maschinenrichtlinie.md",
+    "Gesetze/Produktsicherheitsgesetz.md",
+    "Normen/DIN EN ISO 12100.md",
+    "Normen/DIN EN IEC 62061.md",
+    "Normen/DIN EN ISO 13849-2.md",
+    "Normen/DIN EN ISO 13849-1.md",
+    "Normen/DIN EN ISO 13850.md",
+    "Normen/DIN EN ISO 11161.md",
+    "Normen/DIN EN ISO 10218-2.md",
+    "Normen/DIN EN ISO 10218-1.md",
+    "Normen/DIN EN ISO 10075-2.md",
+    "Normen/DIN EN ISO 10075-1.md",
+    "Normen/DIN EN ISO 7731.md",
+    "Normen/DIN EN ISO 6385.md",
+    "Normen/DIN EN ISO 4414.md",
+    "Normen/DIN EN ISO 4413.md",
+    "Normen/DIN EN ISO 3691-4.md",
+    "Normen/DIN EN IEC 63327.md",
+    "Normen/DIN EN 60204-1.md",
+    "Normen/DIN EN 894-2.md",
+    "Normen/DIN EN 894-1.md",
+    "Normen/DIN EN 614-2.md",
+    "medien/Gefaehrdungsbeurteilung.png",
+    "medien/Gefaehrdungsbeurteilung 1.jfif",
+    "medien/Gefaehrdungsbeurteilung.jfif",
+    "medien/Lebenszykluskosten.png",
+    "Allgemeines",
+    "medien/rokit_banner.png",
+    "medien/rokit_logo.png",
+    "Gesetze",
+    "Normen",
     "Untitled"
   ]
 }

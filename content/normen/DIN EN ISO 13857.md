@@ -12,7 +12,9 @@ Frei verfügbar: false
 ## Sicherheit von Maschinen - Sicherheitsabstände gegen das Erreichen von Gefährdungsbereichen mit den oberen und unteren Gliedmaßen
 
 Gremium: [[ISO/TC 199]]
+
 Dokumententyp: [[B1-Norm]]
+
 [![[rokit_logo.png|200]]](https://public-robots.de/)
 
 ***

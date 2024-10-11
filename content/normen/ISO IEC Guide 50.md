@@ -12,8 +12,10 @@ Frei verfügbar: true
 ## Safety aspects -- Guidelines for child safety in standards and other specifications
 ### Sicherheitsaspekte -- Leitlinien für die Kindersicherheit in Normen und anderen Spezifikationen
 
-Gremium: [[]]
-Dokumententyp: [[]]
+Gremium: 
+
+Dokumententyp: 
+
 [![[rokit_logo.png|200]]](https://public-robots.de/)
 
 ***
@@ -31,10 +33,12 @@ Domäne:
 - #Kinder
 
 Gefährdungen:
-- 
+- #Gefährdung/Divers 
 
 Einsatzgebiete:
-- 
+- #Einsatzgebiet/Privat 
+- #Einsatzgebiet/Industrie 
+- #Einsatzgebiet/Öffentlichkeit 
 
 ***
 ### Normative Verweisungen
