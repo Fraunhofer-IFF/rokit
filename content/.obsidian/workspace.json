@@ -4,17 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "00a1ea6c422012ad",
+        "id": "89ecf7d567878d95",
         "type": "tabs",
         "children": [
           {
-            "id": "a2a46995d7ef51eb",
+            "id": "c62558b998c03fe3",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Allgemeines/Wirtschaftlichkeit.md",
-                "mode": "preview",
+                "file": "Allgemeines/Rechtsrahmen.md",
+                "mode": "source",
                 "source": false
               }
             }
@@ -69,7 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 270.5
+    "width": 266.5124969482422
   },
   "right": {
     "id": "373d9cccaa0ae6e7",
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Allgemeines/Wirtschaftlichkeit.md",
+                "file": "Allgemeines/Rechtsrahmen.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Allgemeines/Wirtschaftlichkeit.md",
+                "file": "Allgemeines/Rechtsrahmen.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Allgemeines/Wirtschaftlichkeit.md"
+                "file": "Allgemeines/Rechtsrahmen.md"
               }
             }
           }
@@ -145,39 +145,39 @@
       "command-palette:Befehlspalette öffnen": false
     }
   },
-  "active": "a2a46995d7ef51eb",
+  "active": "c62558b998c03fe3",
   "lastOpenFiles": [
     "Allgemeines/Gefährdungsbeurteilung.md",
+    "Allgemeines/Rechtsrahmen.md",
     "Allgemeines/Wirtschaftlichkeit.md",
     "Gesetze/Arbeitsschutzgesetzt.md",
+    "Gesetze/Maschinenrichtlinie.md",
+    "Gesetze/Produktsicherheitsgesetz.md",
+    "Normen/DIN EN ISO 12100.md",
+    "Normen/DIN EN IEC 62061.md",
+    "Normen/DIN EN ISO 13849-2.md",
+    "Normen/DIN EN ISO 13849-1.md",
+    "Normen/DIN EN ISO 13850.md",
+    "Normen/DIN EN ISO 11161.md",
+    "Normen/DIN EN ISO 10218-2.md",
+    "Normen/DIN EN ISO 10218-1.md",
+    "Normen/DIN EN ISO 10075-2.md",
+    "Normen/DIN EN ISO 10075-1.md",
+    "Normen/DIN EN ISO 7731.md",
+    "Normen/DIN EN ISO 6385.md",
+    "Normen/DIN EN ISO 4414.md",
+    "Normen/DIN EN ISO 4413.md",
+    "Normen/DIN EN ISO 3691-4.md",
+    "Normen/DIN EN IEC 63327.md",
+    "Normen/DIN EN 60204-1.md",
+    "Normen/DIN EN 894-2.md",
+    "Normen/DIN EN 894-1.md",
+    "Normen/DIN EN 614-2.md",
     "medien/Gefaehrdungsbeurteilung.png",
     "medien/Gefaehrdungsbeurteilung 1.jfif",
     "medien/Gefaehrdungsbeurteilung.jfif",
-    "Normen/DIN ISO TS 15066.md",
     "medien/Lebenszykluskosten.png",
-    "Normen/DIN EN ISO 10218-2.md",
     "Allgemeines",
-    "Normen/DIN EN IEC 62061.md",
-    "Normen/DIN EN 547.md",
-    "Normen/ISO IEC TR 24028.md",
-    "Normen/ISO IEC TR 24029-1.md",
-    "Normen/ISO PAS 5672.md",
-    "Normen/ISO IEC TR 24027.md",
-    "Normen/ISO IEC TR 5469.md",
-    "Normen/ISO IEC IEEE TR 29119-11.md",
-    "Normen/DIN SPEC 92005.md",
-    "Normen/DIN EN ISO 13849-2.md",
-    "Normen/DIN EN ISO 13849-1.md",
-    "Normen/DIN EN ISO 10218-1.md",
-    "Normen/DIN EN ISO 4413.md",
-    "Normen/DIN EN IEC 63327.md",
-    "Normen/DIN EN 60204-1.md",
-    "Normen/DIN EN 1525.md",
-    "Normen/ISO IEC 22989.md",
-    "Normen/ISO TR 20218-1.md",
-    "Normen/ISO IEC Guide 50.md",
-    "Normen/DIN EN ISO 14122.md",
-    "Normen/DIN EN ISO 14120.md",
     "medien/rokit_banner.png",
     "medien/rokit_logo.png",
     "Gesetze",

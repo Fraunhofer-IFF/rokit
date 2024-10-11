@@ -65,15 +65,15 @@ weitere...
 
 Domäne:
 
- #Domäne
+ - #Domäne
 
 Gefährdungen:
 
-#Gefährdung 
+- #Gefährdung 
 
 Einsatzgebiete:
 
-#Einsatzgebiet/Industrie 
+- #Einsatzgebiet/Industrie 
 
 
 

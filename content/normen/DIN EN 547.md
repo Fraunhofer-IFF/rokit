@@ -50,8 +50,8 @@ EN 547-3, Sicherheit von Maschinen — Körpermaße des Menschen — Teil 3: Kö
 
 prEN 979, Definitionsgrundlagen menschlicher Körpermaße für die Gestaltung technischer Erzeugnisse
 
-EN 614-1, Sicherheit von Maschinen — Ergonomische Gestaltungsgrundsätze — Teil 1: Begriffe und
-allgemeine Leitsätze
+[[DIN EN 614-1]], Sicherheit von Maschinen — Ergonomische Gestaltungsgrundsätze — Teil 1: Begriffe und allgemeine Leitsätze
+
 ***
 ### Weiterführende Informationen
 
