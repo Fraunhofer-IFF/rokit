@@ -8,6 +8,13 @@ Englisch verfügbar: true
 Frei verfügbar: true
 ---
 
+- **Ausgabedatum**:
+- **Harmonisiert**: Nein
+- **Gülitgkeit**: Nein
+- **Deutsch verfügbar**: Nein
+- **Englisch verfügbar**: Ja
+- **Frei verfügbar**: Ja
+
 # ISO IEC 22989
 ## Artificial intelligence concepts and terminology
 

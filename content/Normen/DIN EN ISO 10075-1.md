@@ -8,6 +8,13 @@ Englisch verfügbar: true
 Frei verfügbar: false
 ---
 
+- **Ausgabedatum**: 2018-01-01
+- **Harmonisiert**: Nein
+- **Gülitgkeit**: Ja
+- **Deutsch verfügbar**: Ja
+- **Englisch verfügbar**: Ja
+- **Frei verfügbar**: Nein
+
 # DIN EN ISO 10075-1:2018-01
 ## Ergonomische Grundlagen bezüglich psychischer Arbeitsbelastung–Teil 1: Allgemeine Aspekte und Konzepte und Begriffe
 

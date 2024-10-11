@@ -8,6 +8,13 @@ Englisch verfügbar: true
 Frei Verfügbar: false
 ---
 
+- **Ausgabedatum**: 2017-04-01
+- **Harmonisiert**: Nein
+- **Gülitgkeit**: Ja
+- **Deutsch verfügbar**: Ja
+- **Englisch verfügbar**: Ja
+- **Frei verfügbar**: Nein
+
 # DIN ISO TS 15066
 ## Roboter und Robotikgeräte - Kollaborierende Roboter
 

@@ -7,6 +7,12 @@ Englisch verfügbar: false
 Frei verfügbar: true
 ---
 
+- **Ausgabedatum**: 1996-08-07
+- **Gülitgkeit**: Ja
+- **Deutsch verfügbar**: Ja
+- **Englisch verfügbar**: Nein
+- **Frei verfügbar**: Ja
+
 # ArbSchG
 ## Arbeitsschutzgesetz
 

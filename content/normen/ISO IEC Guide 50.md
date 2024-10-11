@@ -8,6 +8,13 @@ Englisch verfügbar: true
 Frei verfügbar: true
 ---
 
+- **Ausgabedatum**: 2014-12-01
+- **Harmonisiert**: Nein
+- **Gülitgkeit**: Ja
+- **Deutsch verfügbar**: Nein
+- **Englisch verfügbar**: Ja
+- **Frei verfügbar**: Ja
+
 # ISO/IEC Guide 50
 ## Safety aspects -- Guidelines for child safety in standards and other specifications
 ### Sicherheitsaspekte -- Leitlinien für die Kindersicherheit in Normen und anderen Spezifikationen

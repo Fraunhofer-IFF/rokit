@@ -8,6 +8,13 @@ Englisch verfügbar: true
 Frei verfügbar: false
 ---
 
+- **Ausgabedatum**: 2023-11-01
+- **Harmonisiert**: Nein
+- **Gülitgkeit**: Ja
+- **Deutsch verfügbar**: Nein
+- **Englisch verfügbar**: Ja
+- **Frei verfügbar**: Nein
+
 # ISO/PAS 5672
 ## Robotics - Collaborative applications - Test methods for measuring forces and pressures in human-robot contacts 
 ### Robotik - Kollaborative Anwendungen - Prüfverfahren zur Messung von Kräften und Drücken bei Mensch-Roboter-Kontakten

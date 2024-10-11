@@ -8,6 +8,13 @@ Englisch verfügbar: true
 Frei verfügbar: false
 ---
 
+- **Ausgabedatum**:
+- **Harmonisiert**: Nein
+- **Gülitgkeit**: Nein
+- **Deutsch verfügbar**: Nein
+- **Englisch verfügbar**: Ja
+- **Frei verfügbar**: Nein
+
 # ISO IEC IEEE TR 29119-11
 ## Guidelines on the testing of AI-based systems
 

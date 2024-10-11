@@ -7,6 +7,12 @@ Englisch verfügbar: true
 Frei verfügbar: true
 ---
 
+- **Ausgabedatum**: 2006.05.17
+- **Gülitgkeit**: Ja
+- **Deutsch verfügbar**: Ja
+- **Englisch verfügbar**: Ja
+- **Frei verfügbar**: Ja
+
 # RICHTLINIE 2006/42/EG
 ## Maschinenrichtlinie
 
