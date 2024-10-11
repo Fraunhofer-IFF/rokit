@@ -8,6 +8,14 @@ Englisch verfügbar: true
 Frei verfügbar: false
 ---
 
+- **Ausgabedatum**: 2023-02-01
+- **Harmonisiert**: Nein
+- **Gülitgkeit**: Ja
+- **Deutsch verfügbar**: Ja
+- **Englisch verfügbar**: Ja
+- **Frei verfügbar**: Nein
+
+
 # DIN EN IEC 62061
 ## Sicherheit von Maschinen - Funktionale Sicherheit sicherheitsbezogener Steuerungssysteme
 

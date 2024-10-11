@@ -8,6 +8,13 @@ Englisch verfügbar: true
 Frei verfügbar: false
 ---
 
+- **Ausgabedatum**: 2011-04-01
+- **Harmonisiert**: Nein
+- **Gülitgkeit**: Ja
+- **Deutsch verfügbar**: Ja
+- **Englisch verfügbar**: Ja
+- **Frei verfügbar**: Nein
+
 # DIN EN ISO 4413
 ## Fluidtechnik – Allgemeine Regeln und sicherheitstechnische Anforderungen an Hydraulikanlagen und deren Bauteile
 

@@ -8,6 +8,13 @@ Englisch verfügbar: true
 Frei verfügbar: false
 ---
 
+- **Ausgabedatum**:
+- **Harmonisiert**: Nein
+- **Gülitgkeit**: Ja
+- **Deutsch verfügbar**: Ja
+- **Englisch verfügbar**: Ja
+- **Frei verfügbar**: Nein
+
 # DIN SPEC 33434-3 (DIN CEN/TR 614-3)
 ## Sicherheit von Maschinen – Ergonomische Gestaltungsgrundsätze – Teil 3: Ergonomische Grundsätze für die Gestaltung von mobilen Maschinen
 

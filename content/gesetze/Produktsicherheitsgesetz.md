@@ -7,6 +7,12 @@ Englisch verfügbar: false
 Frei verfügbar: true
 ---
 
+- **Ausgabedatum**: 21.07.20
+- **Gülitgkeit**: Ja
+- **Deutsch verfügbar**: Ja
+- **Englisch verfügbar**: Nein
+- **Frei verfügbar**: Ja
+
 # ProdSG
 # Produktsicherheitsgesetz
 

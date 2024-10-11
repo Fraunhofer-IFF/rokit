@@ -8,6 +8,13 @@ Englisch verfügbar: true
 Frei verfügbar: false
 ---
 
+- **Ausgabedatum**:
+- **Harmonisiert**: Nein
+- **Gülitgkeit**: Ja
+- **Deutsch verfügbar**: Ja
+- **Englisch verfügbar**: Ja
+- **Frei verfügbar**: Nein
+
 # DIN EN ISO 14118
 ## Sicherheit von Maschinen - Vermeidung von unerwartetem Anlauf
 

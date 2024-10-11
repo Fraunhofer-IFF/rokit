@@ -8,6 +8,14 @@ Englisch verfügbar: true
 Frei verfügbar: false
 ---
 
+
+- **Ausgabedatum**: 2016-12-01
+- **Harmonisiert**: Nein
+- **Gülitgkeit**: Ja
+- **Deutsch verfügbar**: Ja
+- **Englisch verfügbar**: Ja
+- **Frei verfügbar**: Nein
+
 # DIN EN ISO 6385:2016-12
 ## Grundsätze der Ergonomie für die Gestaltung von Arbeitssystemen
 

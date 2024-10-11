@@ -9,6 +9,13 @@ Englisch verfügbar: true
 Frei verfügbar: false
 ---
 
+- **Ausgabedatum**:
+- **Harmonisiert**: Nein
+- **Gülitgkeit**: Nein
+- **Deutsch verfügbar**: Nein
+- **Englisch verfügbar**: Ja
+- **Frei verfügbar**: Nein
+
 # ISO IEC TR 24029-1
 ## Assessment of the robustness of neural networks - Overview
 

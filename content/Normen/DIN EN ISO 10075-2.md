@@ -8,6 +8,13 @@ Englisch verfügbar: true
 Frei verfügbar: false
 ---
 
+- **Ausgabedatum**: 2024-12-01
+- **Harmonisiert**: Nein
+- **Gülitgkeit**: Ja
+- **Deutsch verfügbar**: Ja
+- **Englisch verfügbar**: Ja
+- **Frei verfügbar**: Nein
+
 # DIN EN ISO 10075-2:2024-12
 ## Ergonomische Grundlagen bezüglich psychischer Arbeitsbelastung–Teil 2: Gestaltungsgrundsätze
 

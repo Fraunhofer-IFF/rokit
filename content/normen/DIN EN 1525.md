@@ -8,6 +8,13 @@ Englisch verfügbar: true
 Frei verfügbar: false
 ---
 
+- **Ausgabedatum**: 1997-12-01
+- **Harmonisiert**: Nein
+- **Gülitgkeit**: Nein
+- **Deutsch verfügbar**: Ja
+- **Englisch verfügbar**: Ja
+- **Frei verfügbar**: Nein
+
 # DIN EN 1525
 ## Sicherheit von Flurförderzeugen
 

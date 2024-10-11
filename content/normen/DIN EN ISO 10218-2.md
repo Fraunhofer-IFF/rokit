@@ -8,6 +8,13 @@ Englisch verfügbar: true
 Frei Verfügbar: false
 ---
 
+- **Ausgabedatum**: 2012-06-01
+- **Harmonisiert**: Nein
+- **Gülitgkeit**: Ja
+- **Deutsch verfügbar**: Ja
+- **Englisch verfügbar**: Ja
+- **Frei verfügbar**: Nein
+
 # DIN EN ISO 10218-2
 ## Industrieroboter - Sicherheitsanforderungen - Teil 2: Robotersysteme und Integration
 

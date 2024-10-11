@@ -8,6 +8,13 @@ Englisch verfügbar: true
 Frei verfügbar: false
 ---
 
+- **Ausgabedatum**: 2009-06-01
+- **Harmonisiert**: Ja
+- **Gülitgkeit**: Ja
+- **Deutsch verfügbar**: Ja
+- **Englisch verfügbar**: Ja
+- **Frei verfügbar**: Nein
+
 # DIN EN ISO 614-1:2009-06
 ## Sicherheit von Maschinen – Ergonomische Gestaltungsgrundsätze – Teil 1: Begriffe und allgemeine Leitsätze
 

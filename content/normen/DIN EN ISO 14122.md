@@ -8,6 +8,13 @@ Englisch verfügbar: true
 Frei verfügbar: false
 ---
 
+- **Ausgabedatum**: 2016-10-01
+- **Harmonisiert**: Nein
+- **Gülitgkeit**: Ja
+- **Deutsch verfügbar**: Ja
+- **Englisch verfügbar**: Ja
+- **Frei verfügbar**: Nein
+
 # DIN EN ISO 14122:2016 Teil 1 bis 4
 ## Sicherheit von Maschinen - Ortsfeste Zugänge zu maschinellen Anlagen - Teil 1: Wahl eines ortsfesten Zugangs und allgemeine Anforderungen - Teil 2: Arbeitsbühnen und Laufstege - Teil 3: Treppen, Treppenleitern und Geländer -Teil 4: Ortsfeste Steigleitern
 

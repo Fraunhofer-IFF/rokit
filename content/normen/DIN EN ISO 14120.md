@@ -8,6 +8,13 @@ Englisch verfügbar: true
 Frei verfügbar: false
 ---
 
+- **Ausgabedatum**: 2016-05-01
+- **Harmonisiert**: Nein
+- **Gülitgkeit**: Ja
+- **Deutsch verfügbar**: Ja
+- **Englisch verfügbar**: Ja
+- **Frei verfügbar**: Nein
+
 # DIN EN ISO 14120
 ## Sicherheit von Maschinen – Trennende Schutzeinrichtungen – Allgemeine Anforderungen an Gestaltung und Bau von feststehenden und beweglichen trennenden Schutzeinrichtungen
 
