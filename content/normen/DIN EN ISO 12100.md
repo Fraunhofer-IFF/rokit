@@ -1,6 +1,5 @@
 ---
-tags:
-  - arbeitsstatus/todo
+tags: []
 Ausgabedatum: 2011-01-01
 Harmonisiert: true
 Gülitgkeit: true
@@ -13,7 +12,9 @@ Frei verfügbar: false
 ## Sicherheit von Maschinen - Allgemeine Gestaltungsleitsätze - Risikobeurteilung und Risikominderung
 
 Gremium: [[ISO/TC 199]]
+
 Dokumententyp: [[A-Norm]]
+
 [![[rokit_logo.png|200]]](https://public-robots.de/)
 
 ***
@@ -37,10 +38,22 @@ Domäne:
 - #Domäne/Maschinen 
 
 Gefährdungen:
-- 
+- #Gefährdung/mechanisch 
+- #Gefährdung/elektrisch 
+- #Gefährdung/thermisch
+- #Gefährdung/Lärm
+- #Gefährdung/Vibration
+- #Gefährdung/Strahlung
+- #Gefährdung/Materialien_Substanzen
+- #Gefährdung/Pneumatik 
+- #Gefährdung/Hydraulik 
+- #Gefährdung/Ergonomie
+- #Gefährdung/Umgebung
+- #Gefährdung/Kombination
+- #Gefährdung/Divers 
 
 Einsatzgebiete:
-- 
+- #Einsatzgebiet/Industrie 
 
 ***
 ### Normative Verweisungen

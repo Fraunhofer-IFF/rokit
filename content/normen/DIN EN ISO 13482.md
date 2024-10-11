@@ -1,6 +1,5 @@
 ---
-tags:
-  - arbeitsstatus/todo
+tags: []
 Ausgabedatum: 2014-11-01
 Harmonisiert: false
 Gülitgkeit: true
@@ -13,7 +12,9 @@ Frei verfügbar: false
 ## Roboter und Robotikgeräte - Sicherheitsanforderungen für persönliche Assistenzroboter
 
 Gremium: [[ISO/TC 184]]
+
 Dokumententyp: [[C-Norm]]
+
 [![[rokit_logo.png|200]]](https://public-robots.de/)
 
 ***
@@ -42,49 +43,82 @@ Gefährdungsereignisse wie in Anhang A beschrieben. Es wird darauf hingewiesen, 
 ### Tags
 
 Domäne:
-- 
+- #Domäne/Maschinen 
+- #Domäne/Maschinen/Assistenzroboter
+- #Domäne/Maschinen/Roboter 
 
 Gefährdungen:
-- 
+- #Gefährdung/Divers 
 
 Einsatzgebiete:
-- 
+- #Einsatzgebiet/Industrie 
+- #Einsatzgebiet/Öffentlichkeit
+- #Einsatzgebiet/Privat
 
 ***
 ### Normative Verweisungen
 
 ISO 2631 (alle Teile), Mechanical vibration and shock — Evaluation of human exposure to whole-body vibration
+
 ISO 3746, Acoustics — Determination of sound power levels and sound energy levels of noise sources using sound pressure — Survey method using an enveloping measurement surface over a reflecting plane
+
 ISO 3864-1, Graphical symbols — Safety colours and safety signs — Part 1: Design principles for safety signs and safety markings
+
 [[DIN EN ISO 4413]], Hydraulic fluid power — General rules and safety requirements for systems and their components
+
 [[DIN EN ISO 4414]], Pneumatic fluid power — General rules and safety requirements for systems and their components
+
 ISO 4871, Acoustics — Declaration and verification of noise emission values of machinery and equipment
+
 ISO 7000, Graphical symbols for use on equipment — Registered symbols
+
 ISO 7010, Graphical symbols — Safety colours and safety signs — Registered safety signs
+
 ISO 8373:2012, Robots and robotic devices — Vocabulary
+
 ISO 11202, Acoustics — Noise emitted by machinery and equipment — Determination of emission sound pressure levels at a work station and at other specified positions applying approximate environmental corrections
+
 [[DIN EN ISO 12100]], Safety of machinery — General principles for design — Risk assessment and risk reduction
+
 [[DIN EN ISO 13849-1]], Safety of machinery — Safety-related parts of control systems — Part 1: General principles for design
+
 [[DIN EN ISO 13850]], Safety of machinery — Emergency stop — Principles for design
+
 [[DIN EN ISO 13854]], Safety of machinery — Minimum gaps to avoid crushing of parts of the human body
-[[DIN EN ISO 13855]]), Safety of machinery — Positioning of safeguards with respect to the approach speeds of parts of the human body
+
+[[DIN EN ISO 13855]], Safety of machinery — Positioning of safeguards with respect to the approach speeds of parts of the human body
+
 [[DIN EN ISO 13856]] (alle Teile), Safety of machinery — Pressure-sensitive protective devices
+
 [[DIN EN ISO 13857]], Safety of machinery — Safety distances to prevent hazard zones being reached by upper and lower limbs
+
 [[DIN EN ISO 14118]], Safety of machinery — Prevention of unexpected start-up
+
 [[DIN EN ISO 14119]], Safety of machinery — Interlocking devices associated with guards — Principles for design and selection
+
 [[DIN EN ISO 14120]], Safety of machinery — Guards — General requirements for the design and construction of fixed and movable guards
+
 [[DIN EN ISO 15534]] (alle Teile), Ergonomic design for the safety of machinery1)
+
 [[DIN EN 60204-1|IEC 60204-1]]:2009, Safety of machinery — Electrical equipment of machines — Part 1: General requirements
+
 IEC 60335-1, Household and similar electrical appliances — Safety — Part 1: General requirements
-IEC 60335-2-29, Household and similar electrical appliances — Safety — Part 2-29: Particular requirements
-for battery chargers
+
+IEC 60335-2-29, Household and similar electrical appliances — Safety — Part 2-29: Particular requirements for battery chargers
+
 IEC 60417-1, Graphical symbols for use on equipment — Part 1: Overview and application
+
 IEC 60529, Degrees of protection provided by enclosures (IP Code)
+
 IEC 60825-1, Safety of laser products — Part 1: Equipment classification and requirements
+
 IEC 61140, Protection against electric shock — Common aspects for installation and equipment
+
 IEC 61496 (alle Teile), Safety of machinery — Electro-sensitive protective equipment
+
 [[DIN EN IEC 620621|IEC 62061]] Safety of machinery — Functional safety of safety-related electrical, electronic and
 programmable electronic control systems
+
 IEC 62471, Photobiological safety of lamps and lamp systems
 
 

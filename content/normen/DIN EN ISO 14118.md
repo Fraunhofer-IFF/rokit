@@ -1,6 +1,5 @@
 ---
-tags:
-  - arbeitsstatus/todo
+tags: []
 Ausgabedatum: 
 Harmonisiert: false
 Gülitgkeit: true
@@ -13,7 +12,9 @@ Frei verfügbar: false
 ## Sicherheit von Maschinen - Vermeidung von unerwartetem Anlauf
 
 Gremium: [[ISO/TC 199]]
+
 Dokumententyp: [[B-Norm]]
+
 [![[rokit_logo.png|200]]](https://public-robots.de/)
 
 ***
@@ -31,13 +32,13 @@ In diesem Dokument werden keine Performance Level oder Sicherheits-Integritätsl
 ### Tags
 
 Domäne:
-- 
+- #Domäne/Maschinen 
 
 Gefährdungen:
-- 
+- #Gefährdung/Divers 
 
 Einsatzgebiete:
-- 
+- #Einsatzgebiet/Industrie 
 
 ***
 ### Normative Verweisungen

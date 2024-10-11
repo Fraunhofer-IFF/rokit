@@ -1,6 +1,5 @@
 ---
-tags:
-  - arbeitsstatus/todo
+tags: []
 Ausgabedatum: 2016-05-01
 Harmonisiert: false
 Gülitgkeit: true
@@ -13,7 +12,9 @@ Frei verfügbar: false
 ## Sicherheit von Maschinen - Not-Halt-Funktion - Gestaltungsleitsätze
 
 Gremium: [[ISO/TC 199]]
+
 Dokumententyp: [[B2-Norm]]
+
 [![[rokit_logo.png|200]]](https://public-robots.de/)
 
 ***
@@ -28,13 +29,14 @@ Die Anforderungen dieser Internationalen Norm gelten für alle Maschinen, mit Au
 ### Tags
 
 Domäne:
-- 
+- #Domäne/Maschinen 
 
 Gefährdungen:
-- 
+- #Gefährdung/Divers 
 
 Einsatzgebiete:
-- 
+- #Einsatzgebiet/Industrie 
+
 
 ***
 ### Normative Verweisungen

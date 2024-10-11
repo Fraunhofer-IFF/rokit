@@ -1,6 +1,5 @@
 ---
-tags:
-  - arbeitsstatus/todo
+tags: []
 Ausgabedatum: 1996-08-07
 Gülitgkeit: true
 Deutsch verfügbar: true
@@ -9,7 +8,7 @@ Frei verfügbar: true
 ---
 
 # ArbSchG
-## Arbeitsschutzgesetzt
+## Arbeitsschutzgesetz
 
 Geltungsbereich: [[Bundesrepublik Deutschland]]
 Dokumententyp: [[Bundesgesetz]]
@@ -27,13 +26,14 @@ Dieses Gesetz dient dazu, Sicherheit und Gesundheitsschutz der Beschäftigten be
 ### Tags
 
 Domäne:
-- 
+- #Domäne 
 
 Gefährdungen:
-- 
+- #Gefährdung 
 
 Einsatzgebiete:
-- 
+- #Einsatzgebiet/Industrie 
+- #Einsatzgebiet/Öffentlichkeit 
 
 ***
 ### Relevante Verordnungen

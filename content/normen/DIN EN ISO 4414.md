@@ -1,6 +1,5 @@
 ---
-tags:
-  - arbeitsstatus/todo
+tags: []
 Ausgabedatum: 0011-04-01
 Harmonisiert: false
 Gülitgkeit: true
@@ -13,7 +12,9 @@ Frei verfügbar: false
 ## Fluidtechnik - Allgemeine Regeln und sicherheitstechnische Anforderungen an Pneumatikanlagen und deren Bauteile
 
 Gremium: [[ISO/TC 131]] [[CEN/TC 114]]
-Dokumententyp: [[]]
+
+Dokumententyp: 
+
 [![[rokit_logo.png|200]]](https://public-robots.de/)
 
 ***
@@ -47,21 +48,29 @@ Domäne:
 - #Domäne/Maschinen 
 
 Gefährdungen:
-- 
+- #Gefährdung/mechanisch 
+- #Gefährdung/Pneumatik
 
 Einsatzgebiete:
-- 
+- #Einsatzgebiet/Industrie 
 
 ***
 ### Normative Verweisungen
 
 ISO 1219-1, Fluid power systems and components — Graphic symbols and circuit diagrams — Part 1: Graphic symbols for conventional use and data-processing applications
+
 ISO 1219-2, Fluid power systems and components — Graphic symbols and circuit diagrams — Part 2: Circuit diagrams
+
 ISO 5598, Fluid power systems and components — Vocabulary
+
 ISO 11727, Pneumatic fluid power — Identification of ports and control mechanisms of control valves and other components
+
 [[DIN EN ISO 12100]], Safety of machinery — General principles for design — Risk assessment and risk reduction
+
 [[DIN EN ISO 13850]], Safety of machinery — Emergency stop — Principles for design
+
 [[DIN EN ISO 13851]], Safety of machinery — Two-hand control devices — Functional aspects and design principles
+
 [[DIN EN ISO 14118]], Safety of machinery — Prevention of unexpected start-up
 IEC 60529, Degrees of protection provided by enclosures (IP code)
 

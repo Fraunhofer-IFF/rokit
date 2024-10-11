@@ -1,6 +1,5 @@
 ---
-tags:
-  - arbeitsstatus/todo
+tags: []
 Ausgabedatum: 2023-02-01
 Harmonisiert: false
 Gülitgkeit: true
@@ -13,7 +12,9 @@ Frei verfügbar: false
 ## Sicherheit von Maschinen - Funktionale Sicherheit sicherheitsbezogener Steuerungssysteme
 
 Gremium: [[IEC/TC 44]]
-Dokumententyp: [[]]
+
+Dokumententyp: 
+
 [![[rokit_logo.png|200]]](https://public-robots.de/)
 
 ***
@@ -28,7 +29,8 @@ Domäne:
 - #Domäne/Maschinen 
 
 Gefährdungen:
-- 
+- #Gefährdung/Ausfall_einer_Sicherheitsfunktion 
+- #Gefährdung/Fehlfunktion_eines_technischen_Systems 
 
 Einsatzgebiete:
 - #Einsatzgebiet/Industrie 

@@ -1,6 +1,5 @@
 ---
-tags:
-  - arbeitsstatus/todo
+tags: []
 Ausgabedatum: 1997-12-01
 Harmonisiert: false
 Gülitgkeit: false
@@ -13,7 +12,9 @@ Frei verfügbar: false
 ## Sicherheit von Flurförderzeugen
 
 Gremium: [[CEN/TC150]]
+
 Dokumententyp: [[Typ C]]
+
 [![[rokit_logo.png|200]]](https://public-robots.de/)
 
 ***
@@ -55,13 +56,14 @@ f) Teile des Flurförderzeuges, die während des Betriebes manuelle Eingriffe er
 ### Tags
 
 Domäne:
-- 
+- #Domäne/Maschinen 
+- #Domäne/Maschinen/Flurförderfahrzeuge 
 
 Gefährdungen:
-- 
+- #Gefährdung/mechanisch
 
 Einsatzgebiete:
-- 
+- #Einsatzgebiet/Industrie 
 
 ***
 ### Normative Verweisungen

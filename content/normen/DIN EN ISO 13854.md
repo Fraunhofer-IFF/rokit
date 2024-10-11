@@ -1,6 +1,5 @@
 ---
-tags:
-  - arbeitsstatus/todo
+tags: []
 Ausgabedatum: 
 Harmonisiert: false
 Gülitgkeit: true
@@ -13,7 +12,9 @@ Frei verfügbar: false
 ## Sicherheit von Maschinen - Mindestabstände zur Vermeidung des Quetschens von Körperteilen
 
 Gremium: [[ISO/TC 199]]
+
 Dokumententyp: [[B1-Norm]]
+
 [![[rokit_logo.png|200]]](https://public-robots.de/)
 
 ***
@@ -26,13 +27,13 @@ Dieses Dokument ist auf Risiken der Gefährdungen durch Quetschen anwendbar und 
 ### Tags
 
 Domäne:
-- 
+- #Domäne/Maschinen 
 
 Gefährdungen:
-- 
+- #Gefährdung/mechanisch 
 
 Einsatzgebiete:
-- 
+- #Einsatzgebiet/Industrie 
 
 ***
 ### Normative Verweisungen

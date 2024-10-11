@@ -1,6 +1,5 @@
 ---
-tags:
-  - arbeitsstatus/todo
+tags: []
 Ausgabedatum: 2010-10-01
 Harmonisiert: false
 Gülitgkeit: false
@@ -13,7 +12,9 @@ Frei verfügbar: false
 ## Sicherheit von Maschinen - Anordnung von Schutzeinrichtungen im Hinblick auf Annäherungsgeschwindigkeiten von Körperteilen
 
 Gremium: [[ISO/TC 199]]
+
 Dokumententyp: [[B-Norm]]
+
 [![[rokit_logo.png|200]]](https://public-robots.de/)
 
 ***
@@ -38,13 +39,14 @@ Diese Internationale Norm legt Mindestabstände vom Schutzfeld, der Schutzfläch
 ### Tags
 
 Domäne:
-- 
+- #Domäne/Maschinen 
 
 Gefährdungen:
-- 
+- #Gefährdung/Umgebung 
+- #Gefährdung/mechanisch 
 
 Einsatzgebiete:
-- 
+- #Einsatzgebiet/Industrie 
 
 ***
 ### Normative Verweisungen

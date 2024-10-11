@@ -1,8 +1,7 @@
 ---
-tags:
-  - arbeitsstatus/todo
+tags: []
 Ausgabedatum: 2023-12-01
-Harmonisiert: false
+Harmonisiert: true
 Gülitgkeit: true
 Deutsch verfügbar: true
 Englisch verfügbar: true
@@ -13,7 +12,9 @@ Frei verfügbar: false
 ## Sicherheit von Maschinen - Sicherheitsbezogene Teile von Steuerungen - Teil 1: Allgemeine Gestaltungsleitsätze
 
 Gremium: [[ISO/TC 199]] [[CEN/TC 114]]
+
 Dokumententyp: [[B1-Norm]]
+
 [![[rokit_logo.png|200]]](https://public-robots.de/)
 
 ***
@@ -30,7 +31,9 @@ Domäne:
 - #Domäne/Maschinen 
 
 Gefährdungen:
-- 
+- #Gefährdung/Fehlfunktion_eines_technischen_Systems
+- #Gefährdung/Ausfall_einer_Sicherheitsfunktion
+- #Gefährdung/Divers 
 
 Einsatzgebiete:
 - #Einsatzgebiet/Industrie 
@@ -38,14 +41,21 @@ Einsatzgebiete:
 ***
 ### Normative Verweisungen
 
-- [[DIN EN ISO 12100]] Safety of machinery — General principles for design — Risk assessment and risk reduction
-- [[DIN EN ISO 13849-2]]:2012, Safety of machinery — Safety-related parts of control systems — Part 2: Validation
-- [[DIN EN ISO 13855]]:2010, Safety of machinery — Positioning of safeguards with respect to the approach speeds of parts of the human body
-- ISO 20607:2019, Safety of machinery — Instruction handbook — General drafting principles
-- IEC 61508-3:2010, Functional safety of electrical/electronic/programmable electronic safety-related systems — Part 3: Software requirements
-- IEC 62046:2018, Safety of machinery — Application of protective equipment to detect the presence of persons
-- [[DIN EN IEC 62061|IEC 62061]]:2021, Safety of machinery — Functional safety of safety-related control systems
-- IEC/IEEE 82079-1:2019, Preparation of information for use (instructions for use) of products — Part 1: Principles and general requirements
+ [[DIN EN ISO 12100]] Safety of machinery — General principles for design — Risk assessment and risk reduction
+
+ [[DIN EN ISO 13849-2]]:2012, Safety of machinery — Safety-related parts of control systems — Part 2: Validation
+
+ [[DIN EN ISO 13855]]:2010, Safety of machinery — Positioning of safeguards with respect to the approach speeds of parts of the human body
+
+ ISO 20607:2019, Safety of machinery — Instruction handbook — General drafting principles
+
+ IEC 61508-3:2010, Functional safety of electrical/electronic/programmable electronic safety-related systems — Part 3: Software requirements
+
+ IEC 62046:2018, Safety of machinery — Application of protective equipment to detect the presence of persons
+
+ [[DIN EN IEC 62061|IEC 62061]]:2021, Safety of machinery — Functional safety of safety-related control systems
+
+ IEC/IEEE 82079-1:2019, Preparation of information for use (instructions for use) of products — Part 1: Principles and general requirements
 ***
 ### Weiterführende Informationen
 
