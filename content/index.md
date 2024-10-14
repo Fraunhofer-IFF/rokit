@@ -1,10 +1,6 @@
 ---
 title: Willkommen zur rokit Wissensdatenbank
 ---
-
-[![[rokit_banner.png]]](https://public-robots.de/)
-
-
 Willkommen in der Wissensdatenbank des Projekts rokit - Kompetenz für Roboter im öffentlichen Raum. Diese Datenbank soll helfen, relevante Informationen, Normen und rechtliche Rahmenbedingungen für die sichere, ethisch vertretbare und effiziente Integration von Robotik im öffentlichen Raum zu finden.
 
 --- 
@@ -68,4 +64,4 @@ Detaillierte Informationen zu Normen mit Tag-basierten Suchoptionen zur Erleicht
   **Beispiel:** Nutze den Tag #Domäne/Maschinen/Assistenzroboter   für eine Liste aller sicherheitsbezogenen Normen für Assistenzroboter.
 - **Verknüpfungen**: Viele Einträge sind miteinander verknüpft, sodass leicht von einem Thema zum nächsten navigieren werden kann, z.B. von rechtlichen Grundlagen zu Sicherheitsanforderungen. 
 
-
+[![[rokit_banner.png]]](https://public-robots.de/)
