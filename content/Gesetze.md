@@ -7,7 +7,7 @@ In diesem Ordner finden sich zentrale gesetzliche Regelungen, die für die siche
 
 ---
 
-## [[Arbeitsschutzgesetzt]] 
+## [[Arbeitsschutzgesetz]] 
 
 Das Arbeitsschutzgesetz dient dem Schutz der Gesundheit und Sicherheit von Arbeitnehmern am Arbeitsplatz. Es verpflichtet Arbeitgeber, Arbeitsbedingungen so zu gestalten, dass Gefährdungen vermieden oder auf ein Minimum reduziert werden. 
 
