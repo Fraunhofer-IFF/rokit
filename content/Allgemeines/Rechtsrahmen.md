@@ -12,7 +12,7 @@
 
 Die Entwicklung, Herstellung und Anwendung von autonomen mobilen Robotern kommt mit diversen Rechtsbereichen in Kontakt.
 
-Allein bei der Produktion der Hardware muss neben dem konventionellen **Produktsicherheitsrecht** ([[Produktsicherheitsgesetz]]) zusätzlich das **Straßenverkehrsrecht** berücksichtigt werden. Beim Einsatz von autonomen mobilen Robotern muss das **Datenschutzrecht** und das **Arbeitsschutzrecht** ([[Arbeitsschutzgesetzt]]) beachtet werden. Dazu zählt auch die Sicherheit und Gesundheit der Beschäftigten ([[Gefährdungsbeurteilung]]).
+Allein bei der Produktion der Hardware muss neben dem konventionellen **Produktsicherheitsrecht** ([[Produktsicherheitsgesetz]]) zusätzlich das **Straßenverkehrsrecht** berücksichtigt werden. Beim Einsatz von autonomen mobilen Robotern muss das **Datenschutzrecht** und das **Arbeitsschutzrecht** ([[Arbeitsschutzgesetz]]) beachtet werden. Dazu zählt auch die Sicherheit und Gesundheit der Beschäftigten ([[Gefährdungsbeurteilung]]).
 
 Neuere Gesetzte wie die **KI-Verordnung**, die **EU-Maschinenverordnung** (vgl. [[Maschinenrichtlinie]]]) oder die **Produktsicherheitsrichtlinie** müssen ebenfalls berücksichtigt werden. Grundsätzlich ist die **Maschinenverordnung** die primäre Rechtsquelle für die Sicherheitsanforderungen an Maschinen und Roboter. (Allerdings nennt Art. 2 Abs. 2 Maschinen-VO eine Reihe von Maschinen, die ausnahmsweise nicht in den Anwendungsbereich der Maschinenverordnung fallen.) Daraus ergeben sich Plichten angemessene Risikobewertungs- und Risikominderungssysteme einzurichten, einzuhalten und umzusetzen ([[Risikobeurteilung]]).
 
