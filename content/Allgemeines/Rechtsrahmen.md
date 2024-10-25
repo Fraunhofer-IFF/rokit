@@ -48,9 +48,9 @@ Einsatzgebiete:
 
 ### Weiterführende Informationen
 
-[Rechtliche Bedingungen für den Einsatz autonomer mobiler Roboter im öffentlichen Raum (M. Lehnshack,17.09.2024)] ([https://www.ikem.de/einen-rechtsrahmen-fuer-den-betrieb-von-autonomen-mobilen-robotern-schaffen/](https://www.ikem.de/einen-rechtsrahmen-fuer-den-betrieb-von-autonomen-mobilen-robotern-schaffen/))
+[Rechtliche Bedingungen für den Einsatz autonomer mobiler Roboter im öffentlichen Raum (M. Lehnshack,17.09.2024)]([https://www.ikem.de/einen-rechtsrahmen-fuer-den-betrieb-von-autonomen-mobilen-robotern-schaffen/](https://www.ikem.de/einen-rechtsrahmen-fuer-den-betrieb-von-autonomen-mobilen-robotern-schaffen/))
 
-[Regulatorische Rahmenbedingungen für Serviceroboter im öffentlichen Raum (RimA-Wissen]([https://www.roboter-im-alltag.org/wissen-kategorie/sicherheit/](https://www.roboter-im-alltag.org/wissen-kategorie/sicherheit/))
+[Regulatorische Rahmenbedingungen für Serviceroboter im öffentlichen Raum (RimA-Wissen)]([https://www.roboter-im-alltag.org/wissen-kategorie/sicherheit/](https://www.roboter-im-alltag.org/wissen-kategorie/sicherheit/)
 
 [[DIN EN ISO 12100]] Sicherheit von Maschinen - Allgemeine Gestaltungsleitsätze - Risikobeurteilung und Risikominderung
 
