@@ -1,0 +1,302 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<!-- Generiert durch Microsoft Visio, SVG Export Abbildung_6_3_V75.svg Page-1 -->
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:ev="http://www.w3.org/2001/xml-events"
+		xmlns:v="http://schemas.microsoft.com/visio/2003/SVGExtensions/" width="8.93309in" height="5.48126in"
+		viewBox="0 0 643.183 394.651" xml:space="preserve" color-interpolation-filters="sRGB" class="st16">
+	<v:documentProperties v:langID="1031" v:metric="true" v:viewMarkup="false">
+		<v:userDefs>
+			<v:ud v:nameU="msvNoAutoConnect" v:val="VT0(1):26"/>
+			<v:ud v:nameU="msvConvertTheme"/>
+		</v:userDefs>
+	</v:documentProperties>
+
+	<style type="text/css">
+	<![CDATA[
+		.st1 {stroke:#0c0c0c;stroke-dasharray:5.25,3.75;stroke-linecap:round;stroke-linejoin:round;stroke-width:0.75}
+		.st2 {fill:none;stroke:none;stroke-linecap:round;stroke-linejoin:round;stroke-width:0.25}
+		.st3 {fill:#000000;font-family:DGUV Meta-Normal;font-size:1.08334em}
+		.st4 {fill:#ffffff;stroke:#0c0c0c;stroke-linecap:round;stroke-linejoin:round;stroke-width:0.25}
+		.st5 {font-size:1em}
+		.st6 {fill:url(#grad0-42);stroke:none;stroke-linecap:round;stroke-linejoin:round;stroke-width:0.25}
+		.st7 {fill:#f39200;stroke:none;stroke-linecap:round;stroke-linejoin:round;stroke-width:0.25}
+		.st8 {fill:#ffffff;font-family:DGUV Meta-Normal;font-size:1.08334em}
+		.st9 {fill:#4ca22f;stroke:none;stroke-linecap:round;stroke-linejoin:round;stroke-width:0.25}
+		.st10 {fill:#ffffff;font-family:DGUV Meta-Normal;font-size:1.08334em;letter-spacing:0.153845em}
+		.st11 {fill:url(#grad0-65);stroke:none;stroke-linecap:round;stroke-linejoin:round;stroke-width:0.25}
+		.st12 {fill:#ffffff;font-family:DGUV Meta-Bold;font-size:1.5em;letter-spacing:0.277778em}
+		.st13 {fill:#ffffff;stroke:none;stroke-linecap:round;stroke-linejoin:round;stroke-width:0.25}
+		.st14 {fill:#000000;font-family:DGUV Meta-Bold;font-size:1.08334em}
+		.st15 {fill:#000000;font-family:DGUV Meta-Normal;font-size:0.833336em}
+		.st16 {fill:none;fill-rule:evenodd;font-size:12px;overflow:visible;stroke-linecap:square;stroke-miterlimit:3}
+	]]>
+	</style>
+
+	<defs id="Patterns_And_Gradients">
+		<linearGradient id="grad0-4" x1="0" y1="0" x2="1" y2="0" gradientTransform="rotate(180 0.5 0.5)">
+			<stop offset="0" stop-color="#c05046" stop-opacity="1"/>
+			<stop offset="1" stop-color="#92d050" stop-opacity="1"/>
+		</linearGradient>
+		<linearGradient id="grad0-42" x1="0" y1="0" x2="1" y2="0" gradientTransform="rotate(180 0.5 0.5)">
+			<stop offset="0" stop-color="#bb1115" stop-opacity="1"/>
+			<stop offset="1" stop-color="#d51317" stop-opacity="1"/>
+		</linearGradient>
+		<linearGradient id="grad0-65" x1="0" y1="0" x2="1" y2="0" gradientTransform="rotate(180 0.5 0.5)">
+			<stop offset="0" stop-color="#d51317" stop-opacity="1"/>
+			<stop offset="0.61" stop-color="#f39200" stop-opacity="1"/>
+			<stop offset="1" stop-color="#4ca22f" stop-opacity="1"/>
+		</linearGradient>
+	</defs>
+	<g v:mID="5" v:index="1" v:groupContext="foregroundPage">
+		<v:userDefs>
+			<v:ud v:nameU="msvThemeColors" v:val="VT0(254):26"/>
+			<v:ud v:nameU="msvThemeEffects" v:val="VT0(254):26"/>
+			<v:ud v:nameU="msvThemeOrder" v:val="VT0(0):26"/>
+		</v:userDefs>
+		<title>Zeichenblatt-1</title>
+		<v:pageProperties v:drawingScale="0.0393701" v:pageScale="0.0393701" v:drawingUnits="24" v:shadowOffsetX="8.50394"
+				v:shadowOffsetY="-8.50394"/>
+		<g id="shape1019-1" v:mID="1019" v:groupContext="shape" transform="translate(730.55,80.9022) rotate(90)">
+			<title>Tabelle.1019</title>
+			<v:userDefs>
+				<v:ud v:nameU="msvThemeColors" v:val="VT0(254):26"/>
+				<v:ud v:nameU="msvThemeEffects" v:val="VT0(254):26"/>
+			</v:userDefs>
+			<path d="M0 394.65 L224.61 394.65" class="st1"/>
+		</g>
+		<g id="shape1024-6" v:mID="1024" v:groupContext="shape" transform="translate(902.046,80.6091) rotate(90)">
+			<title>Tabelle.1024</title>
+			<v:userDefs>
+				<v:ud v:nameU="msvThemeColors" v:val="VT0(254):26"/>
+				<v:ud v:nameU="msvThemeEffects" v:val="VT0(254):26"/>
+			</v:userDefs>
+			<path d="M0 394.65 L221.17 394.65" class="st1"/>
+		</g>
+		<g id="shape1000-10" v:mID="1000" v:groupContext="shape" transform="translate(564.663,-235.844)">
+			<title>Tabelle.1000</title>
+			<desc>hoch</desc>
+			<v:userDefs>
+				<v:ud v:nameU="msvThemeColors" v:val="VT0(254):26"/>
+				<v:ud v:nameU="msvThemeEffects" v:val="VT0(254):26"/>
+			</v:userDefs>
+			<v:textBlock v:margins="rect(1,1,1,1)" v:tabSpace="42.5197" v:verticalAlign="0"/>
+			<v:textRect cx="30.1973" cy="386.147" width="60.4" height="17.0079"/>
+			<rect x="0" y="377.643" width="60.3947" height="17.0079" class="st2"/>
+			<text x="16.47" y="390.34" class="st3" v:langID="1031"><v:paragraph v:horizAlign="1"/><v:tabList/>hoch</text>		</g>
+		<g id="shape1001-13" v:mID="1001" v:groupContext="shape" transform="translate(18.125,-235.844)">
+			<title>Tabelle.1001</title>
+			<desc>niedrig</desc>
+			<v:userDefs>
+				<v:ud v:nameU="msvThemeColors" v:val="VT0(254):26"/>
+				<v:ud v:nameU="msvThemeEffects" v:val="VT0(254):26"/>
+			</v:userDefs>
+			<v:textBlock v:margins="rect(1,1,1,1)" v:tabSpace="42.5197" v:verticalAlign="0"/>
+			<v:textRect cx="25.2375" cy="386.147" width="50.48" height="17.0079"/>
+			<rect x="0" y="377.643" width="50.475" height="17.0079" class="st2"/>
+			<text x="6.01" y="390.34" class="st3" v:langID="1031"><v:paragraph v:horizAlign="1"/><v:tabList/>niedrig</text>		</g>
+		<g id="group1002-16" transform="translate(288.285,-261.905)" v:mID="1002" v:groupContext="group">
+			<v:userDefs>
+				<v:ud v:nameU="msvThemeColors" v:val="VT0(254):26"/>
+				<v:ud v:nameU="msvThemeEffects" v:val="VT0(254):26"/>
+			</v:userDefs>
+			<title>Tabelle.1002</title>
+			<g id="shape1003-17" v:mID="1003" v:groupContext="shape" transform="translate(0,-52.023)">
+				<title>Tabelle.1003</title>
+				<desc>Risiko ohne sicherheits- bezogene Steuerungen</desc>
+				<v:userDefs>
+					<v:ud v:nameU="msvThemeColors" v:val="VT0(254):26"/>
+					<v:ud v:nameU="msvThemeEffects" v:val="VT0(254):26"/>
+				</v:userDefs>
+				<v:textBlock v:margins="rect(1,1,1,1)" v:tabSpace="42.5197"/>
+				<v:textRect cx="47.622" cy="363.352" width="95.25" height="62.5984"/>
+				<rect x="0" y="332.053" width="95.2441" height="62.5984" rx="8.50394" ry="8.50394" class="st4"/>
+				<text x="15.45" y="343.85" class="st3" v:langID="1031"><v:paragraph v:horizAlign="1"/><v:tabList/>Risiko ohne<v:newlineChar/><tspan
+							x="15.29" dy="1.2em" class="st5">sicherheits</tspan>-<v:newlineChar/><tspan x="20.76" dy="1.2em"
+							class="st5">bezogene<v:newlineChar/></tspan><tspan x="12.42" dy="1.2em" class="st5">Steuerungen</tspan></text>			</g>
+		</g>
+		<g id="group1008-23" transform="translate(463.175,-261.905)" v:mID="1008" v:groupContext="group">
+			<v:userDefs>
+				<v:ud v:nameU="msvThemeColors" v:val="VT0(254):26"/>
+				<v:ud v:nameU="msvThemeEffects" v:val="VT0(254):26"/>
+			</v:userDefs>
+			<title>Tabelle.1008</title>
+			<g id="shape1009-24" v:mID="1009" v:groupContext="shape" transform="translate(-3.39401,-52.023)">
+				<title>Tabelle.1009</title>
+				<desc>Risiko ohne Schutz- maßnahmen</desc>
+				<v:userDefs>
+					<v:ud v:nameU="msvThemeColors" v:val="VT0(254):26"/>
+					<v:ud v:nameU="msvThemeEffects" v:val="VT0(254):26"/>
+				</v:userDefs>
+				<v:textBlock v:margins="rect(1,1,1,1)" v:tabSpace="42.5197"/>
+				<v:textRect cx="47.622" cy="363.352" width="95.25" height="62.5984"/>
+				<rect x="0" y="332.053" width="95.2441" height="62.5984" rx="8.50394" ry="8.50394" class="st4"/>
+				<text x="15.45" y="351.65" class="st3" v:langID="1031"><v:paragraph v:horizAlign="1"/><v:tabList/>Risiko ohne<v:newlineChar/><tspan
+							x="26.94" dy="1.2em" class="st5">Schutz</tspan>-<v:newlineChar/><tspan x="12.72" dy="1.2em" class="st5">maßnahmen</tspan></text>			</g>
+		</g>
+		<g id="group1010-29" transform="translate(166.955,-261.905)" v:mID="1010" v:groupContext="group">
+			<v:userDefs>
+				<v:ud v:nameU="msvThemeColors" v:val="VT0(254):26"/>
+				<v:ud v:nameU="msvThemeEffects" v:val="VT0(254):26"/>
+			</v:userDefs>
+			<title>Tabelle.1010</title>
+			<g id="shape1011-30" v:mID="1011" v:groupContext="shape" transform="translate(0,-52.023)">
+				<title>Tabelle.1011</title>
+				<desc>Akzeptables Risiko</desc>
+				<v:userDefs>
+					<v:ud v:nameU="msvThemeColors" v:val="VT0(254):26"/>
+					<v:ud v:nameU="msvThemeEffects" v:val="VT0(254):26"/>
+				</v:userDefs>
+				<v:textBlock v:margins="rect(1,1,1,1)" v:tabSpace="42.5197"/>
+				<v:textRect cx="47.622" cy="363.352" width="95.25" height="62.5984"/>
+				<rect x="0" y="332.053" width="95.2441" height="62.5984" rx="8.50394" ry="8.50394" class="st4"/>
+				<text x="13.64" y="359.45" class="st3" v:langID="1031"><v:paragraph v:horizAlign="1"/><v:tabList/>Akzeptables<v:newlineChar/><v:paragraph
+							v:horizAlign="1"/><tspan x="30.84" dy="1.2em" class="st5">Risiko</tspan></text>			</g>
+		</g>
+		<g id="group1012-34" transform="translate(65.7578,-261.905)" v:mID="1012" v:groupContext="group">
+			<v:userDefs>
+				<v:ud v:nameU="msvThemeColors" v:val="VT0(254):26"/>
+				<v:ud v:nameU="msvThemeEffects" v:val="VT0(254):26"/>
+			</v:userDefs>
+			<title>Tabelle.1012</title>
+			<g id="shape1013-35" v:mID="1013" v:groupContext="shape" transform="translate(-0.745959,-52.023)">
+				<title>Tabelle.1013</title>
+				<desc>Verbleibendes Restrisiko</desc>
+				<v:userDefs>
+					<v:ud v:nameU="msvThemeColors" v:val="VT0(254):26"/>
+					<v:ud v:nameU="msvThemeEffects" v:val="VT0(254):26"/>
+				</v:userDefs>
+				<v:textBlock v:margins="rect(1,1,1,1)" v:tabSpace="42.5197"/>
+				<v:textRect cx="47.622" cy="363.352" width="95.25" height="62.5984"/>
+				<rect x="0" y="332.053" width="95.2441" height="62.5984" rx="8.50394" ry="8.50394" class="st4"/>
+				<text x="7.67" y="359.45" class="st3" v:langID="1031"><v:paragraph v:horizAlign="1"/><v:tabList/>Verbleibendes<v:newlineChar/><v:paragraph
+							v:horizAlign="1"/><tspan x="20.4" dy="1.2em" class="st5">Restrisiko</tspan></text>			</g>
+		</g>
+		<g id="shape1015-39" v:mID="1015" v:groupContext="shape" transform="translate(584.444,-256.793) rotate(0.4)">
+			<title>Tabelle.1015</title>
+			<v:userDefs>
+				<v:ud v:nameU="msvThemeColors" v:val="VT0(254):26"/>
+				<v:ud v:nameU="msvThemeEffects" v:val="VT0(254):26"/>
+			</v:userDefs>
+			<path d="M0.34 394.65 L30.63 368.66 L0 344.15 L0.34 394.65 Z" class="st6"/>
+		</g>
+		<g id="shape1017-43" v:mID="1017" v:groupContext="shape" transform="translate(507.188,80.9668) rotate(90)">
+			<title>Tabelle.1017</title>
+			<v:userDefs>
+				<v:ud v:nameU="msvThemeColors" v:val="VT0(254):26"/>
+				<v:ud v:nameU="msvThemeEffects" v:val="VT0(254):26"/>
+			</v:userDefs>
+			<path d="M0 394.65 L220.85 394.65" class="st1"/>
+		</g>
+		<g id="shape1018-47" v:mID="1018" v:groupContext="shape" transform="translate(609.235,80.6091) rotate(90)">
+			<title>Tabelle.1018</title>
+			<v:userDefs>
+				<v:ud v:nameU="msvThemeColors" v:val="VT0(254):26"/>
+				<v:ud v:nameU="msvThemeEffects" v:val="VT0(254):26"/>
+			</v:userDefs>
+			<path d="M0 394.65 L222.22 394.65" class="st1"/>
+		</g>
+		<g id="shape1020-51" v:mID="1020" v:groupContext="shape" transform="translate(214.584,-165.726)">
+			<title>Tabelle.1020</title>
+			<v:userDefs>
+				<v:ud v:nameU="msvThemeEffects" v:val="VT0(254):26"/>
+				<v:ud v:nameU="msvThemeColors" v:val="VT0(254):26"/>
+			</v:userDefs>
+			<path d="M31.86 369.14 L292.81 369.14 L292.81 320.95 L31.86 320.95 L31.86 295.44 L0 344.76 L31.86 394.65 L31.86 369.14
+						 Z" class="st7"/>
+		</g>
+		<g id="shape1021-53" v:mID="1021" v:groupContext="shape" transform="translate(202.671,-192.089)">
+			<title>Tabelle.1021</title>
+			<desc>Notwendige Risikominderung</desc>
+			<v:userDefs>
+				<v:ud v:nameU="msvThemeColors" v:val="VT0(254):26"/>
+				<v:ud v:nameU="msvThemeEffects" v:val="VT0(254):26"/>
+			</v:userDefs>
+			<v:textBlock v:margins="rect(1,1,1,1)" v:tabSpace="42.5197"/>
+			<v:textRect cx="152.362" cy="371.123" width="304.73" height="47.0551"/>
+			<rect x="0" y="347.596" width="304.724" height="47.0551" class="st2"/>
+			<text x="119.45" y="367.22" class="st8" v:langID="1031"><v:paragraph v:horizAlign="1"/><v:tabList/>Notwendige<v:newlineChar/><tspan
+						x="105.73" dy="1.2em" class="st5">Risikominderung</tspan></text>		</g>
+		<g id="shape1022-57" v:mID="1022" v:groupContext="shape" transform="translate(112.787,-18.125)">
+			<title>Tabelle.1022</title>
+			<v:userDefs>
+				<v:ud v:nameU="msvThemeEffects" v:val="VT0(254):26"/>
+				<v:ud v:nameU="msvThemeColors" v:val="VT0(254):26"/>
+			</v:userDefs>
+			<path d="M42.97 357.08 L394.86 357.08 L394.86 286.11 L42.97 286.11 L42.97 248.53 L0 321.17 L42.97 394.65 L42.97 357.08
+						 Z" class="st9"/>
+		</g>
+		<g id="shape1023-59" v:mID="1023" v:groupContext="shape" transform="translate(164.52,-90.9114)">
+			<title>Tabelle.1023</title>
+			<desc>Tatsächliche Risikominderung</desc>
+			<v:userDefs>
+				<v:ud v:nameU="msvThemeColors" v:val="VT0(254):26"/>
+				<v:ud v:nameU="msvThemeEffects" v:val="VT0(254):26"/>
+			</v:userDefs>
+			<v:textBlock v:margins="rect(1,1,1,1)" v:tabSpace="42.5197"/>
+			<v:textRect cx="196.897" cy="366.73" width="393.8" height="55.8425"/>
+			<rect x="0" y="338.808" width="393.795" height="55.8425" class="st2"/>
+			<text x="78.99" y="370.63" class="st10" v:langID="1031"><v:paragraph v:horizAlign="1"/><v:tabList/>Tatsächliche    Risikominderung</text>		</g>
+		<g id="shape1014-62" v:mID="1014" v:groupContext="shape" transform="translate(38.8362,495.754) scale(1,-1)">
+			<title>Tabelle.1014</title>
+			<v:userDefs>
+				<v:ud v:nameU="msvThemeEffects" v:val="VT0(254):26"/>
+				<v:ud v:nameU="msvThemeColors" v:val="VT0(254):26"/>
+			</v:userDefs>
+			<rect x="0" y="371.532" width="544.252" height="23.1192" class="st11"/>
+		</g>
+		<g id="shape1016-66" v:mID="1016" v:groupContext="shape" transform="translate(38.8362,-273.243)">
+			<title>Tabelle.1016</title>
+			<desc>RISIKO</desc>
+			<v:userDefs>
+				<v:ud v:nameU="msvThemeColors" v:val="VT0(254):26"/>
+				<v:ud v:nameU="msvThemeEffects" v:val="VT0(254):26"/>
+			</v:userDefs>
+			<v:textBlock v:margins="rect(1,1,1,1)" v:tabSpace="42.5197" v:verticalAlign="0"/>
+			<v:textRect cx="269.291" cy="384.147" width="538.59" height="21.0079"/>
+			<rect x="0" y="373.643" width="538.583" height="21.0079" class="st2"/>
+			<text x="227.22" y="390.84" class="st12" v:langID="1031"><v:paragraph v:horizAlign="1"/><v:tabList/>RISIKO</text>		</g>
+		<g id="shape1025-69" v:mID="1025" v:groupContext="shape" transform="translate(124.867,-56.3927)">
+			<title>Tabelle.1025</title>
+			<v:userDefs>
+				<v:ud v:nameU="msvThemeEffects" v:val="VT0(254):26"/>
+				<v:ud v:nameU="msvThemeColors" v:val="VT0(254):26"/>
+			</v:userDefs>
+			<path d="M22.95 376.43 L210.9 376.43 L210.9 342.01 L22.95 342.01 L22.95 323.78 L0 359.02 L22.95 394.65 L22.95 376.43 Z"
+					class="st13"/>
+		</g>
+		<g id="shape1005-71" v:mID="1005" v:groupContext="shape" transform="translate(126.956,-76.0935)">
+			<title>Tabelle.1005</title>
+			<desc>Abgedeckt durch sicherheits-bezogene Steuerungen</desc>
+			<v:userDefs>
+				<v:ud v:nameU="msvThemeColors" v:val="VT0(254):26"/>
+				<v:ud v:nameU="msvThemeEffects" v:val="VT0(254):26"/>
+			</v:userDefs>
+			<v:textBlock v:margins="rect(1,1,1,1)" v:tabSpace="42.5197" v:verticalAlign="0"/>
+			<v:textRect cx="105.467" cy="378.919" width="210.94" height="31.4646"/>
+			<rect x="0" y="363.186" width="210.935" height="31.4646" class="st2"/>
+			<text x="23.84" y="375.89" class="st14" v:langID="1031"><v:paragraph v:horizAlign="1"/><v:tabList/>Abgedeckt durch sicherheits-<tspan
+						x="41.2" dy="1.2em" class="st5">bezogene Steuerungen</tspan></text>		</g>
+		<g id="shape1027-75" v:mID="1027" v:groupContext="shape" transform="translate(335.765,-54.9754)">
+			<title>Tabelle.1027</title>
+			<v:userDefs>
+				<v:ud v:nameU="msvThemeEffects" v:val="VT0(254):26"/>
+				<v:ud v:nameU="msvThemeColors" v:val="VT0(254):26"/>
+			</v:userDefs>
+			<path d="M18.66 376.43 L171.46 376.43 L171.46 342.01 L18.66 342.01 L18.66 323.78 L0 359.02 L18.66 394.65 L18.66 376.43
+						 Z" class="st13"/>
+		</g>
+		<g id="shape1007-77" v:mID="1007" v:groupContext="shape" transform="translate(335.057,-73.4006)">
+			<title>Tabelle.1007</title>
+			<desc>Abgedeckt durch Schutzmaßnahmen ohne sicherheitsbezogene Steu...</desc>
+			<v:userDefs>
+				<v:ud v:nameU="msvThemeColors" v:val="VT0(254):26"/>
+				<v:ud v:nameU="msvThemeEffects" v:val="VT0(254):26"/>
+			</v:userDefs>
+			<v:textBlock v:margins="rect(1,1,1,1)" v:tabSpace="42.5197" v:verticalAlign="0"/>
+			<v:textRect cx="86.4567" cy="376.934" width="172.92" height="35.4331"/>
+			<rect x="0" y="359.218" width="172.913" height="35.4331" class="st2"/>
+			<text x="8.34" y="369.22" class="st15" v:langID="1031"><v:paragraph v:horizAlign="1"/><v:tabList/>Abgedeckt durch Schutzmaßnahmen <v:newlineChar/><tspan
+						x="30.54" dy="1.2em" class="st5">ohne </tspan>sicherheitsbezogene<v:newlineChar/><tspan x="59.38"
+						dy="1.2em" class="st5">Steuerungen</tspan></text>		</g>
+	</g>
+</svg>
