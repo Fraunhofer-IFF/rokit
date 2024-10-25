@@ -2,9 +2,7 @@
 title: Willkommen zur rokit Wissensdatenbank
 ---
 Willkommen in der Wissensdatenbank des Projekts rokit - Kompetenz für Roboter im öffentlichen Raum. Diese Datenbank soll helfen, relevante Informationen, Normen und rechtliche Rahmenbedingungen für die sichere, ethisch vertretbare und effiziente Integration von Robotik im öffentlichen Raum zu finden.
-
---- 
-
+![[rokit_Straßenreinigung.png]]
 ## Kompetenzen des Konsortiums
 
 Das Projekt vereint die Expertise aus verschiedenen Disziplinen, um eine umfassende Perspektive auf die Herausforderungen und Chancen der Robotik im öffentlichen Raum zu bieten:
@@ -25,6 +23,7 @@ Das Projekt vereint die Expertise aus verschiedenen Disziplinen, um eine umfasse
    **Inhalte:**
    - **Gefährdungsbeurteilung**: Übersicht und Methodik zur Analyse potenzieller Risiken und Gefährdungen.
    - **Rechtsrahmen**: Zusammenstellung von rechtlichen Aspekten, die für den Einsatz von Robotern im öffentlichen Raum gelten.
+   - **Risikobeurteilung**: Systematisch das Risiko analysieren und mindern.
    - **Wirtschaftlichkeit**: Bewertung der wirtschaftlichen Machbarkeit und Analyse von Kosten-Nutzen-Aspekten.
 
 ### 2. **Gesetze**
