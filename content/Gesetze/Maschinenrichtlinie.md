@@ -1,6 +1,6 @@
 ---
 tags: []
-Ausgabedatum: 2006.05.17
+Ausgabedatum: 2006-05-17
 Gültigkeit: false
 Deutsch verfügbar: true
 Englisch verfügbar: true

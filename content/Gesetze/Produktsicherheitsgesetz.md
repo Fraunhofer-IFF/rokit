@@ -51,7 +51,6 @@ Einsatzgebiete:
 ### Weiterführende Informationen
 
 
-- [DGUV Test Information 14: EG-Konformitätserklärung und Einbauerklärung nach Maschinenrichtlinie 2006/42/EG](https://publikationen.dguv.de/widgets/pdf/download/article/3095)
 - [DGUV Test Information 13: Wesentliche Veränderungen von Produkten](https://publikationen.dguv.de/widgets/pdf/download/article/4666)
 - [DGUV Test Information 03: Vergleich von CE-Kennzeichnung und Prüfzeichen](https://publikationen.dguv.de/widgets/pdf/download/article/3085)
 
