@@ -1,16 +1,16 @@
 ---
 tags: []
-Ausgabedatum: 2011-01-01
+Ausgabedatum: 2011-03-01
 Harmonisiert: true
-Gülitgkeit: true
+Gültigkeit: true
 Deutsch verfügbar: true
 Englisch verfügbar: true
 Frei verfügbar: false
 ---
 
-- **Ausgabedatum**: 2011-01-01
+- **Ausgabedatum**: 2011-03-01
 - **Harmonisiert**: Ja
-- **Gülitgkeit**: Ja
+- **Gültigkeit**: Ja
 - **Deutsch verfügbar**: Ja
 - **Englisch verfügbar**: Ja
 - **Frei verfügbar**: Nein

@@ -1,16 +1,16 @@
 ---
 tags: []
 Ausgabedatum: 2013-02-01
-Harmonisiert: false
-Gülitgkeit: true
+Harmonisiert: true
+Gültigkeit: true
 Deutsch verfügbar: true
 Englisch verfügbar: true
 Frei verfügbar: false
 ---
 
 - **Ausgabedatum**: 2013-02-01
-- **Harmonisiert**: Nein
-- **Gülitgkeit**: Ja
+- **Harmonisiert**: Ja
+- **Gültigkeit**: Ja
 - **Deutsch verfügbar**: Ja
 - **Englisch verfügbar**: Ja
 - **Frei verfügbar**: Nein
@@ -67,7 +67,8 @@ Einsatzgebiete:
 - [Sicherheit von Maschinensteuerungen nach DIN EN ISO 13849](https://www.dguv.de/ifa/praxishilfen/praxishilfen-maschinenschutz/sicherheit-von-maschinensteuerungen/index.jsp)
 - [Vierte Ausgabe der DIN EN ISO 13849-1 - Die wesentlichen Neuerungen aus 2023 im Überblick](https://publikationen.dguv.de/forschung/ifa/allgemeine-informationen/4755/vierte-ausgabe-der-din-en-iso-13849-1-die-wesentlichen-neuerungen-aus-2023-im-ueberblick)
 - [PLC-Drehscheibe](https://www.dguv.de/ifa/praxishilfen/praxishilfen-maschinenschutz/performance-level-calculator/index.jsp)
-- [Funktionale Sicherheit von Maschinensteuerungen - IFA Report 2/2017](https://www.dguv.de/ifa/publikationen/reports-download/reports-2017/ifa-report-2-2017/index.jsp)
+- [Toolbox Maschinensicherheit PLC-Drehscheibe](https://maschinen.ifa.dguv.de/plc)
+- [IFA Report 1/2025: Funktionale Sicherheit von Maschinensteuerungen – Anwendung der DIN EN ISO 13849](https://publikationen.dguv.de/forschung/ifa/ifa-report/5091/ifa-report-1/2025-funktionale-sicherheit-von-maschinensteuerungen-anwendung-der-din-en-iso-13849)
 - [Software-Assistent SISTEMA: Bewertung von sicherheitsbezogenen Maschinensteuerungen nach DIN EN ISO 13849](https://www.dguv.de/ifa/praxishilfen/praxishilfen-maschinenschutz/software-sistema/index.jsp)
 - [Praxisgerechte Umsetzung der Anforderungen für sicherheitsbezogene Embedded- Software nach DIN EN ISO 13849-1 (IFA Report 1/2020)](https://www.dguv.de/ifa/publikationen/reports-download/reports-2020/ifa-report-1-2020/index.jsp)
 - [Sichere Antriebssteuerungen mit Frequenzumrichtern (3. Auflage, IFA Report 4/2018)](https://www.dguv.de/ifa/publikationen/reports-download/reports-2018/ifa-report-4-2018/index.jsp)

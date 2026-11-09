@@ -1,17 +1,17 @@
 ---
 tags:
   - "#Robustness"
-Ausgabedatum: 
+Ausgabedatum: 2024-03-01
 Harmonisiert: false
-Gülitgkeit: false
+Gültigkeit: false
 Deutsch verfügbar: false
 Englisch verfügbar: true
 Frei verfügbar: true
 ---
 
-- **Ausgabedatum**:
+- **Ausgabedatum**: 2024-03-01
 - **Harmonisiert**: Nein
-- **Gülitgkeit**: Nein
+- **Gültigkeit**: Nein
 - **Deutsch verfügbar**: Nein
 - **Englisch verfügbar**: Ja
 - **Frei verfügbar**: Ja

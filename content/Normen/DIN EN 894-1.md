@@ -2,15 +2,15 @@
 tags:
 Ausgabedatum: 2009-01-01
 Harmonisiert: true
-Gülitgkeit: true
+Gültigkeit: true
 Deutsch verfügbar: true
 Englisch verfügbar: true
 Frei verfügbar: false
 ---
 
-- **Ausgabedatum**: 2008-12-01
+- **Ausgabedatum**: 2009-01-01
 - **Harmonisiert**: Ja
-- **Gülitgkeit**: Ja
+- **Gültigkeit**: Ja
 - **Deutsch verfügbar**: Ja
 - **Englisch verfügbar**: Ja
 - **Frei verfügbar**: Nein

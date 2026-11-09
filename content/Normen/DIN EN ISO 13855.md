@@ -1,16 +1,16 @@
 ---
 tags: []
-Ausgabedatum: 2010-10-01
+Ausgabedatum: 2026-08-01
 Harmonisiert: false
-Gülitgkeit: false
+Gültigkeit: true
 Deutsch verfügbar: true
 Englisch verfügbar: true
 Frei verfügbar: false
 ---
 
-- **Ausgabedatum**: 2010-10-01
+- **Ausgabedatum**: 2026-08-01
 - **Harmonisiert**: Nein
-- **Gülitgkeit**: Nein
+- **Gültigkeit**: Ja
 - **Deutsch verfügbar**: Ja
 - **Englisch verfügbar**: Ja
 - **Frei verfügbar**: Nein

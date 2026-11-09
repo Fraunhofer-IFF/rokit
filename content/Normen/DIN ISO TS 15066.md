@@ -2,7 +2,7 @@
 tags: []
 Ausgabedatum: 2017-04-01
 Harmonisiert: false
-Gülitgkeit: true
+Gültigkeit: true
 Deutsch verfügbar: true
 Englisch verfügbar: true
 Frei Verfügbar: false
@@ -10,7 +10,7 @@ Frei Verfügbar: false
 
 - **Ausgabedatum**: 2017-04-01
 - **Harmonisiert**: Nein
-- **Gülitgkeit**: Ja
+- **Gültigkeit**: Ja
 - **Deutsch verfügbar**: Ja
 - **Englisch verfügbar**: Ja
 - **Frei verfügbar**: Nein
@@ -20,7 +20,7 @@ Frei Verfügbar: false
 
 Gremium: [[ISO/TC 299]]
 
-Dokumententyp: [[C-Norm]]
+Dokumententyp: Technische Spezifikation
 
 [![[rokit_logo.png|200]]](https://public-robots.de/)
 ***

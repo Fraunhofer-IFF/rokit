@@ -2,7 +2,7 @@
 tags: 
 Ausgabedatum: 2023-12-01
 Harmonisiert: false
-Gülitgkeit: true
+Gültigkeit: true
 Deutsch verfügbar: true
 Englisch verfügbar: true
 Frei verfügbar: false
@@ -10,13 +10,13 @@ Frei verfügbar: false
 
 - **Ausgabedatum**: 2023-12-01
 - **Harmonisiert**: Nein
-- **Gülitgkeit**: Ja
+- **Gültigkeit**: Ja
 - **Deutsch verfügbar**: Ja
 - **Englisch verfügbar**: Ja
 - **Frei verfügbar**: Nein
 
-# # DIN EN ISO 3691-4:2023-12
-## ## Flurförderzeuge - Sicherheitstechnische Anforderungen und Verifizierung - Teil 4: Fahrerlose Flurförderzeuge und ihre Systeme
+# DIN EN ISO 3691-4:2023-12
+## Flurförderzeuge - Sicherheitstechnische Anforderungen und Verifizierung - Teil 4: Fahrerlose Flurförderzeuge und ihre Systeme
 
 Gremium: [[ISO/TC 110]]
 

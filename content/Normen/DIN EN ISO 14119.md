@@ -1,21 +1,21 @@
 ---
 tags: []
-Ausgabedatum: 2022-04-01
+Ausgabedatum: 2025-09-01
 Harmonisiert: false
-Gülitgkeit: false
+Gülitgkeit: true
 Deutsch verfügbar: true
 Englisch verfügbar: true
 Frei verfügbar: false
 ---
 
-- **Ausgabedatum**: 2022-04-01
+- **Ausgabedatum**: 2025-09-01; A11:2026-09
 - **Harmonisiert**: Nein
-- **Gülitgkeit**: Nein
+- **Gülitgkeit**: Ja
 - **Deutsch verfügbar**: Ja
 - **Englisch verfügbar**: Ja
 - **Frei verfügbar**: Nein
 
-# DIN EN ISO 14119:2022-04 (Entwurf)
+# DIN EN ISO 14119:2025-09 + A11:2026-09
 ## Sicherheit von Maschinen - Verriegelungseinrichtungen in Verbindung mit trennenden Schutzeinrichtungen - Leitsätze für Gestaltung und Auswahl
 
 Gremium: [[ISO/TC 299]] [[CEN/TC 114]]

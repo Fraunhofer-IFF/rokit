@@ -1,6 +1,6 @@
 ---
 tags: []
-Ausgabedatum: 
+Ausgabedatum: 2020-11-01
 Harmonisiert: false
 Gülitgkeit: false
 Deutsch verfügbar: false
@@ -8,7 +8,7 @@ Englisch verfügbar: true
 Frei verfügbar: false
 ---
 
-- **Ausgabedatum**:
+- **Ausgabedatum**: 2020-11-01
 - **Harmonisiert**: Nein
 - **Gülitgkeit**: Nein
 - **Deutsch verfügbar**: Nein

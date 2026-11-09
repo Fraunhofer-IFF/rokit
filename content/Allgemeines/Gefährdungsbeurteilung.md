@@ -41,7 +41,7 @@ Die Pflicht zur Durchführung und Dokumentation von Gefährdungsbeurteilungen du
 >
 > der Allgemeinen Bundesbergverordnung (§ 3) für Betriebe, die unter Bergaufsicht stehen, oder
 > 
-> der Unfallverhütungsvorschrift „Grundsätze der Prävention“ ([DGUV Vorschrift 1]( [https://publikationen.dguv.de/regelwerk/dguv-vorschriften/2909/dguv-vorschrift-1](https://publikationen.dguv.de/regelwerk/dguv-vorschriften/2909/dguv-vorschrift-1))).
+> der Unfallverhütungsvorschrift „Grundsätze der Prävention“ ([DGUV Vorschrift 1](https://publikationen.dguv.de/regelwerk/dguv-vorschriften/2909/dguv-vorschrift-1)).
 
 Sie gilt für Unternehmen aus dem Handwerk, der Industrie und dem Dienstleistungsbereich gleichermaßen.
 
@@ -51,7 +51,7 @@ Darüber hinaus ergibt sich diese Verpflichtung auch aus:
 - Biostoffverordnung (BioStoffV) → für Tätigkeiten mit Biostoffen
 - Gefahrstoffverordnung (GefStoffV) → für Tätigkeiten mit Gefahrstoffen, insbesondere Grundpflichten und Festlegen weiterer Schutzmaßnahmen, auch zu Brand- und Explosionsgefährdungen
 - Jugendschutzgesetz (JuSchG) → für Jugendliche Lärm-Vibrations
-- Arbeitsschutzverordnung (LärmVibrationsArbSchV) → für Tätigkeiten mit Gefährdung durch Lärm oder Vibration
+- Lärm- und Vibrations-Arbeitsschutzverordnung (LärmVibrationsArbSchV) → für Tätigkeiten mit Gefährdung durch Lärm oder Vibration
 - Lastenhandhabungsverordnung (LasthandhabV) → für manuelle Lastenhandhabungen
 - Mutterschutzgesetz (MuSchG) → für schwangere oder stillende Frauen oder deren Kinder
 - DGUV Regeln 112-189 bis 112-201 → für persönliche Schutzausrüstungen
@@ -83,14 +83,14 @@ Einsatzgebiete:
 ### Weiterführende Informationen
 
 
-[Die sieben Schritte der Gefährdungsbeurteilung]([https://www.bgetem.de/arbeitssicherheit-gesundheitsschutz/themen-von-a-z-1/organisation-von-arbeitssicherheit-und-gesundheitsschutz/gefaehrdungsbeurteilung/durchfuehrung](https://www.bgetem.de/arbeitssicherheit-gesundheitsschutz/themen-von-a-z-1/organisation-von-arbeitssicherheit-und-gesundheitsschutz/gefaehrdungsbeurteilung/durchfuehrung))
+[Die sieben Schritte der Gefährdungsbeurteilung](https://www.bgetem.de/arbeitssicherheit-gesundheitsschutz/themen-von-a-z-1/organisation-von-arbeitssicherheit-und-gesundheitsschutz/gefaehrdungsbeurteilung/durchfuehrung)
 
-[Gefährdungsbeurteilung (ASR V3)]([https://www.baua.de/DE/Angebote/Regelwerk/ASR/ASR-V3.html](https://www.baua.de/DE/Angebote/Regelwerk/ASR/ASR-V3.html))
+[Gefährdungsbeurteilung (ASR V3)](https://www.baua.de/DE/Angebote/Regelwerk/ASR/ASR-V3)
 
-[Gefährdungsbeurteilung (TRBS 1111)]( [https://www.baua.de/DE/Angebote/Regelwerk/TRBS/TRBS-1111.html](https://www.baua.de/DE/Angebote/Regelwerk/TRBS/TRBS-1111.html))
+[Gefährdungsbeurteilung (TRBS 1111)](https://www.baua.de/DE/Angebote/Regelwerk/TRBS/TRBS-1111)
 
-[Beurteilen von Gefährdungen und Belastung - Anleitungshilfe zur systematischen Vorgehenswese, sichere Schritte zum Ziel. (BGHM-I 102)]( [https://www.bghm.de/fileadmin/user_upload/Arbeitsschuetzer/Gesetze_Vorschriften/Informationen/BGHM-I_102.pdf](https://www.bghm.de/fileadmin/user_upload/Arbeitsschuetzer/Gesetze_Vorschriften/Informationen/BGHM-I_102.pdf))
+[Beurteilen von Gefährdungen und Belastung - Anleitungshilfe zur systematischen Vorgehensweise, sichere Schritte zum Ziel (BGHM-I 102)](https://www.bghm.de/fileadmin/user_upload/Arbeitsschuetzer/Gesetze_Vorschriften/Informationen/BGHM-I_102.pdf)
 
-[GDA - Leitlinie Gefährdungsbeurteilung und Dokumentation]([https://www.gda-portal.de/DE/Aufsichtshandeln/Gefaehrdungsbeurteilung/Gefaehrdungsbeurteilung_node.html](https://www.gda-portal.de/DE/Aufsichtshandeln/Gefaehrdungsbeurteilung/Gefaehrdungsbeurteilung_node.html))
+[GDA - Leitlinie Gefährdungsbeurteilung und Dokumentation, Fassung 19.03.2026](https://www.gda-portal.de/DE/Downloads/pdf/Leitlinie-Gefaehrdungsbeurteilung)
 
 [![[rokit_banner.png]]](https://public-robots.de/)

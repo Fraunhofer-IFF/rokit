@@ -2,7 +2,7 @@
 tags: []
 Ausgabedatum: 2012-06-01
 Harmonisiert: false
-Gülitgkeit: true
+Gültigkeit: true
 Deutsch verfügbar: true
 Englisch verfügbar: true
 Frei Verfügbar: false
@@ -10,7 +10,7 @@ Frei Verfügbar: false
 
 - **Ausgabedatum**: 2012-06-01
 - **Harmonisiert**: Nein
-- **Gülitgkeit**: Ja
+- **Gültigkeit**: Ja
 - **Deutsch verfügbar**: Ja
 - **Englisch verfügbar**: Ja
 - **Frei verfügbar**: Nein

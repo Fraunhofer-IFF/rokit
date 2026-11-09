@@ -1,23 +1,23 @@
 ---
 tags:
   - "#Bias"
-Ausgabedatum: 
+Ausgabedatum: 2021-11-01
 Harmonisiert: false
-Gülitgkeit: false
-Deutsch verfügbar: false
+Gültigkeit: false
+Deutsch verfügbar: true
 Englisch verfügbar: true
 Frei verfügbar: false
 ---
 
-- **Ausgabedatum**:
+- **Ausgabedatum**: 2021-11-01
 - **Harmonisiert**: Nein
-- **Gülitgkeit**: Nein
-- **Deutsch verfügbar**: Nein
+- **Gültigkeit**: Nein
+- **Deutsch verfügbar**: Ja
 - **Englisch verfügbar**: Ja
 - **Frei verfügbar**: Nein
 
-# ISO IEC TR 24027
-## Bias in AI systems and AI aided decision making
+# ISO/IEC TR 24027
+## Künstliche Intelligenz (KI) – Bias in KI-Systemen und KI-gestützter Entscheidungsfindung
 
 Gremium: [[ISO/IEC JTC 1 SC 42]]
 
