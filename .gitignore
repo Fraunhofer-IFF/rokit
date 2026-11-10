@@ -7,3 +7,4 @@ quartz/.quartz-cache/
 .quartz/
 quartz/cli/tui/dist/
 tsconfig.tsbuildinfo
+.turbo/
