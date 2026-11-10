@@ -68,7 +68,7 @@ Einsatzgebiete:
 
 [[DIN EN ISO 12100]] „Sicherheit von Maschinen – Allgemeine Gestaltungsleitsätze Risikobeurteilung und Risikominderung“
 
-[CE-Konformität (RimA-Wissen)]([https://www.roboter-im-alltag.org/wissen-kategorie/cekonformitaet/)
+[CE-Konformität (RimA-Wissen)](https://www.roboter-im-alltag.org/wissen-kategorie/cekonformitaet/)
 
 [Erstellen von Risikobeurteilungen für Maschinen (BG RCI)](https://www.bgrci.de/fileadmin/BGRCI/Downloads/DL_Praevention/Fachwissen/Maschinensicherheit/2020-11-27_Risikobeurteilungen_f%C3%BCr_Maschinen_01.pdf)
 
