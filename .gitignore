@@ -1,0 +1,9 @@
+node_modules/
+public/
+.quartz-cache/
+content/.trash/
+content/.obsidian/workspace.json
+quartz/.quartz-cache/
+.quartz/
+quartz/cli/tui/dist/
+tsconfig.tsbuildinfo

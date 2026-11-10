@@ -1,3 +1,8 @@
 @use "./base.scss";
 
 // put your custom CSS here!
+
+// Seitentitel soll in der Sidebar nicht umbrechen
+.page-title {
+  font-size: 1.5rem;
+}
