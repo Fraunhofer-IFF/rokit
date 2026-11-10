@@ -17,8 +17,8 @@ Frei verfügbar: true
 # Verordnung (EU) 2023/1230
 ## Maschinenverordnung
 
-Geltungsbereich: [[EUROPÄISCHEN UNION]]
-Dokumententyp: [[EU-Verordnung]]
+Geltungsbereich: **EUROPÄISCHEN UNION**
+Dokumententyp: **EU-Verordnung**
 Fundstelle: [EUR-Lex](https://eur-lex.europa.eu/eli/reg/2023/1230/oj/deu)
 
 [![[rokit_logo.png|200]]](https://public-robots.de/)
