@@ -1,8 +1,5 @@
 import { StaticResources } from "../util/resources"
-import { FilePath, FullSlug, SimpleSlug } from "../util/path"
 import { BuildCtx } from "../util/ctx"
-import { Root as HtmlRoot } from "hast"
-import { Element } from "hast"
 
 export function getStaticResourcesFromPlugins(ctx: BuildCtx) {
   const staticResources: StaticResources = {
@@ -22,19 +19,23 @@ export function getStaticResourcesFromPlugins(ctx: BuildCtx) {
     if (res?.additionalHead) {
       staticResources.additionalHead.push(...res.additionalHead)
     }
+    if (res?.assets) {
+      ;(staticResources.assets ??= []).push(...res.assets)
+    }
   }
 
   // if serving locally, listen for rebuilds and reload the page
   if (ctx.argv.serve) {
-    const wsUrl = ctx.argv.remoteDevHost
-      ? `wss://${ctx.argv.remoteDevHost}:${ctx.argv.wsPort}`
-      : `ws://localhost:${ctx.argv.wsPort}`
+    const wsHost = ctx.argv.remoteDevHost || "localhost"
 
     staticResources.js.push({
       loadTime: "afterDOMReady",
       contentType: "inline",
       script: `
-        const socket = new WebSocket('${wsUrl}')
+        // the dev server speaks plain ws unless it sits behind a TLS proxy,
+        // so follow the page instead of assuming
+        const wsProtocol = window.location.protocol === "https:" ? "wss:" : "ws:"
+        const socket = new WebSocket(\`\${wsProtocol}//${wsHost}:${ctx.argv.wsPort}\`)
         // reload(true) ensures resources like images and scripts are fetched again in firefox
         socket.addEventListener('message', () => document.location.reload(true))
       `,
@@ -51,39 +52,3 @@ export * from "./types"
 export * from "./config"
 export * as PageTypes from "./pageTypes"
 export * as PluginLoader from "./loader"
-
-declare module "vfile" {
-  // inserted in processors.ts
-  interface DataMap {
-    slug: FullSlug
-    filePath: FilePath
-    relativePath: FilePath
-    // from description transformer
-    description: string
-    text: string
-    // from crawl-links transformer
-    links: SimpleSlug[]
-    // from table-of-contents transformer
-    toc: { depth: number; text: string; slug: string }[]
-    collapseToc: boolean
-    // from obsidian-flavored-markdown transformer
-    blocks: Record<string, Element>
-    htmlAst: HtmlRoot
-    hasMermaidDiagram: boolean | undefined
-    // from frontmatter transformer (e.g. note-properties)
-    frontmatter: {
-      title: string
-      tags: string[]
-      description?: string
-      socialDescription?: string
-      lang?: string
-      [key: string]: unknown
-    }
-    // from created-modified-date transformer
-    dates: {
-      created: Date
-      modified: Date
-      published: Date
-    }
-  }
-}

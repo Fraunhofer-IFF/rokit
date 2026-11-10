@@ -2,16 +2,16 @@ import { componentRegistry } from "../../components/registry"
 import { ComponentManifest, PluginManifest } from "./types"
 import { QuartzComponentConstructor } from "../../components/types"
 import { getPluginSubpathEntry, toFileUrl } from "./gitLoader"
+import { attributeComponentExport, shortPluginName } from "../../components/attribution"
 
 export async function loadComponentsFromPackage(
   pluginName: string,
   manifest: PluginManifest | null,
-  subdir?: string,
 ): Promise<void> {
   if (!manifest?.components) return
 
   try {
-    const componentsPath = getPluginSubpathEntry(pluginName, "./components", subdir)
+    const componentsPath = getPluginSubpathEntry(pluginName, "./components")
 
     let componentsModule: Record<string, unknown>
     if (componentsPath) {
@@ -21,8 +21,27 @@ export async function loadComponentsFromPackage(
     }
 
     const componentEntries = Object.entries(manifest.components)
+    // Wrap each export once so rendered roots carry data-quartz-plugin /
+    // data-quartz-component (see components/attribution.ts). The same wrapper
+    // is registered under every key, keeping registry dedupe/caching intact.
+    const attributed = new Map<string, unknown>()
+    const resolveExport = (exportName: string): unknown => {
+      if (!attributed.has(exportName)) {
+        const raw = componentsModule[exportName]
+        attributed.set(
+          exportName,
+          raw
+            ? attributeComponentExport(raw as QuartzComponentConstructor, {
+                plugin: shortPluginName(pluginName),
+                component: exportName,
+              })
+            : raw,
+        )
+      }
+      return attributed.get(exportName)
+    }
     for (const [exportName, componentManifest] of componentEntries) {
-      const component = componentsModule[exportName]
+      const component = resolveExport(exportName)
       if (!component) {
         console.warn(
           `Component "${exportName}" declared in manifest but not found in ${pluginName}/components`,
@@ -54,7 +73,7 @@ export async function loadComponentsFromPackage(
     // (e.g. "footer", "note-properties") for direct kebab-case lookup
     if (componentEntries.length === 1) {
       const [exportName] = componentEntries[0]
-      const component = componentsModule[exportName]
+      const component = resolveExport(exportName)
       if (component && !componentRegistry.get(pluginName)) {
         componentRegistry.register(
           pluginName,
