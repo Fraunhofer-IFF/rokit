@@ -11,6 +11,11 @@ export const CommonArgv = {
     default: false,
     describe: "print out extra logging information",
   },
+  concurrency: {
+    number: true,
+    alias: ["c"],
+    describe: "max parallel operations (default: number of CPU cores)",
+  },
 }
 
 export const CreateArgv = {
@@ -18,7 +23,7 @@ export const CreateArgv = {
   template: {
     string: true,
     alias: ["t"],
-    choices: ["default", "obsidian", "ttrpg", "blog"],
+    choices: ["default", "obsidian", "ttrpg", "blog", "docs"],
     describe: "template to use for initial configuration",
   },
   source: {
@@ -105,42 +110,12 @@ export const BuildArgv = {
   remoteDevHost: {
     string: true,
     default: "",
-    describe: "A URL override for the websocket connection if you are not developing on localhost",
+    describe:
+      "hostname to use for the hot-reload WebSocket connection if you are not developing on localhost",
   },
   bundleInfo: {
     boolean: true,
     default: false,
     describe: "show detailed bundle information",
-  },
-  concurrency: {
-    number: true,
-    describe: "how many threads to use to parse notes",
-  },
-}
-
-export const PluginInstallArgv = {
-  ...CommonArgv,
-  _: {
-    type: "string",
-    demandOption: true,
-    describe: "package names to install",
-  },
-}
-
-export const PluginUninstallArgv = {
-  ...CommonArgv,
-  _: {
-    type: "string",
-    demandOption: true,
-    describe: "package names to uninstall",
-  },
-}
-
-export const PluginSearchArgv = {
-  ...CommonArgv,
-  query: {
-    string: true,
-    alias: ["q"],
-    describe: "search query for plugins",
   },
 }

@@ -42,6 +42,11 @@ configuration:
         tertiary: '#84a59d'
         highlight: rgba(143, 159, 169, 0.15)
         textHighlight: '#b3aa0288'
+  links:
+    markdownLinkResolution: shortest
+  contentIndex:
+    enableSiteMap: true
+    enableRSS: true
 plugins:
   - source: github:quartz-community/created-modified-date
     enabled: true
@@ -72,11 +77,6 @@ plugins:
   - source: github:quartz-community/table-of-contents
     enabled: true
     order: 50
-  - source: github:quartz-community/crawl-links
-    enabled: true
-    options:
-      markdownLinkResolution: shortest
-    order: 60
   - source: github:quartz-community/description
     enabled: true
     order: 70
@@ -97,17 +97,10 @@ plugins:
   - source: github:quartz-community/roam
     enabled: false
     order: 92
-  - source: github:quartz-community/remove-draft
-    enabled: true
   - source: github:quartz-community/explicit-publish
     enabled: false
   - source: github:quartz-community/alias-redirects
     enabled: true
-  - source: github:quartz-community/content-index
-    enabled: true
-    options:
-      enableSiteMap: true
-      enableRSS: true
   - source: github:quartz-community/favicon
     enabled: true
   - source: github:quartz-community/og-image
@@ -221,15 +214,13 @@ plugins:
         - aliases
       excludedProperties: []
       hidePropertiesView: true
-      delimiters: '---'
-      language: yaml
     order: 5
     layout:
       position: beforeBody
       priority: 15
       display: all
   - source: github:quartz-community/encrypted-pages
-    enabled: true
+    enabled: false
     options:
       visibility: icon
       iterations: 600000
