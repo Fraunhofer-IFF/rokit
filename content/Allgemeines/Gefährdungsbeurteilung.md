@@ -85,12 +85,12 @@ Einsatzgebiete:
 
 [Die sieben Schritte der Gefährdungsbeurteilung](https://www.bgetem.de/arbeitssicherheit-gesundheitsschutz/themen-von-a-z-1/organisation-von-arbeitssicherheit-und-gesundheitsschutz/gefaehrdungsbeurteilung/durchfuehrung)
 
-[Gefährdungsbeurteilung (ASR V3)](https://www.baua.de/DE/Angebote/Regelwerk/ASR/ASR-V3)
+[Gefährdungsbeurteilung (ASR V3)](https://www.baua.de/DE/Angebote/Regelwerk/ASR/ASR-V3.html)
 
-[Gefährdungsbeurteilung (TRBS 1111)](https://www.baua.de/DE/Angebote/Regelwerk/TRBS/TRBS-1111)
+[Gefährdungsbeurteilung (TRBS 1111)](https://www.baua.de/DE/Angebote/Regelwerk/TRBS/TRBS-1111.html)
 
-[Beurteilen von Gefährdungen und Belastung - Anleitungshilfe zur systematischen Vorgehensweise, sichere Schritte zum Ziel (BGHM-I 102)](https://www.bghm.de/fileadmin/user_upload/Arbeitsschuetzer/Gesetze_Vorschriften/Informationen/BGHM-I_102.pdf)
+[Beurteilen von Gefährdungen und Belastung - Anleitungshilfe zur systematischen Vorgehenswese, sichere Schritte zum Ziel. (BGHM-I 102)](https://www.bghm.de/fileadmin/user_upload/Arbeitsschuetzer/Gesetze_Vorschriften/Informationen/BGHM-I_102.pdf)
 
-[GDA - Leitlinie Gefährdungsbeurteilung und Dokumentation, Fassung 19.03.2026](https://www.gda-portal.de/DE/Downloads/pdf/Leitlinie-Gefaehrdungsbeurteilung)
+[GDA - Leitlinie Gefährdungsbeurteilung und Dokumentation](https://www.gda-portal.de/DE/Aufsichtshandeln/Gefaehrdungsbeurteilung/Gefaehrdungsbeurteilung_node.html)
 
 [![[rokit_banner.png]]](https://public-robots.de/)
