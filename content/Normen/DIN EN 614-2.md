@@ -53,7 +53,7 @@ Einsatzgebiete:
 
 ***
 ### Normative Verweisungen
-[[Maschinenrichtlinie]]
+[[Maschinenverordnung]]
 [[DIN EN 614-1]]
 [[DIN SPEC 33434-3]]
 [[DIN EN 894-1]]

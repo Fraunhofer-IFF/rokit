@@ -54,7 +54,7 @@ Einsatzgebiete:
 
 ***
 ### Normative Verweisungen
- [[Maschinenrichtlinie]]
+ [[Maschinenverordnung]]
  [[DIN EN 614-2]]
  [[DIN SPEC 33434-3]]
  [[DIN EN 894-1]]

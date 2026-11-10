@@ -65,7 +65,7 @@ Einsatzgebiete:
 ***
 ### Normative Verweisungen
 
-- [[Maschinenrichtlinie]]
+- [[Maschinenverordnung]]
 - [[DIN EN 60204-1|IEC 60204-1]], Safety of machinery — Electrical equipment of machines — Part 1: General requirements
 
 

@@ -45,7 +45,7 @@ Einsatzgebiete:
 ***
 ### Relevante Verordnungen
 
-- [[Maschinenrichtlinie]]
+- [[Maschinenverordnung]]
 
 ***
 ### Weiterführende Informationen
