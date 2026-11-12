@@ -48,6 +48,11 @@ configuration:
     enableSiteMap: true
     enableRSS: true
 plugins:
+  - source: github:quartz-community/crawl-links
+    enabled: true 
+    options:
+      markdownLinkResolution: shortest
+      openLinksInNewTab: true
   - source: github:quartz-community/created-modified-date
     enabled: true
     options:
