@@ -1,16 +1,16 @@
 ---
 tags:
-Ausgabedatum: 2021-11-01
+Ausgabedatum: 2010-11-01
 Harmonisiert: true
-Gülitgkeit: true
+Gültigkeit: true
 Deutsch verfügbar: true
 Englisch verfügbar: true
 Frei verfügbar: false
 ---
 
-- **Ausgabedatum**: 2021-11-01
+- **Ausgabedatum**: 2010-11-01
 - **Harmonisiert**: Ja
-- **Gülitgkeit**: Ja
+- **Gültigkeit**: Ja
 - **Deutsch verfügbar**: Ja
 - **Englisch verfügbar**: Ja
 - **Frei verfügbar**: Nein
@@ -52,7 +52,7 @@ Einsatzgebiete:
 ***
 ### Normative Verweisungen
 
-[[Maschinenrichtlinie]]
+[[Maschinenverordnung]]
 [[DIN EN 614-1]]
 [[DIN EN 614-2]]
 [[DIN EN 894-1]]

@@ -3,7 +3,7 @@
  
  # Einführung in Gesetze und Vorschriften für Robotik im öffentlichen Raum
 
-In diesem Ordner finden sich zentrale gesetzliche Regelungen, die für die sichere und rechtskonforme Anwendung von Robotik im öffentlichen Raum von Bedeutung sind. Die folgenden drei Gesetze – das Arbeitsschutzgesetz, die Maschinenrichtlinie und das Produktsicherheitsgesetz – bieten wichtige Vorgaben für die Entwicklung, den Betrieb und die Sicherheit von Roboteranwendungen, insbesondere in Umgebungen, die Menschen und Maschinen zusammenbringen.
+In diesem Ordner finden sich zentrale gesetzliche Regelungen, die für die sichere und rechtskonforme Anwendung von Robotik im öffentlichen Raum von Bedeutung sind. Die folgenden drei Gesetze – das [[Arbeitsschutzgesetz]], die [[Maschinenverordnung]] und das [[Produktsicherheitsgesetz]] – bieten wichtige Vorgaben für die Entwicklung, den Betrieb und die Sicherheit von Roboteranwendungen, insbesondere in Umgebungen, die Menschen und Maschinen zusammenbringen.
 
 ---
 
@@ -18,10 +18,13 @@ In der Robotik im öffentlichen Raum, insbesondere bei Mensch-Roboter-Interaktio
 
 ## [[Maschinenrichtlinie]]
 
-Die Maschinenrichtlinie ist eine EU-Richtlinie, die den freien Verkehr von Maschinen innerhalb der EU sicherstellen soll, während sie gleichzeitig hohe Sicherheitsstandards setzt. Sie definiert grundlegende Sicherheits- und Gesundheitsanforderungen an Maschinen und legt fest, wie diese durch geeignete Maßnahmen und Zertifizierungen erfüllt werden können.
+Die Maschinenrichtlinie ist eine EU-Richtlinie, die den freien Verkehr von Maschinen innerhalb der EU sicherstellen soll, während sie gleichzeitig hohe Sicherheitsstandards setzt. Sie definiert grundlegende Sicherheits- und Gesundheitsanforderungen an Maschinen und legt fest, wie diese durch geeignete Maßnahmen und Zertifizierungen erfüllt werden können. Die Maschinenrichtlinie 2006/42/EG wird mit Wirkung zum 20.01.2027 durch die [[Maschinenverordnung]] (EU) 2023/1230 abgelöst. Einzelne Vorschriften der Verordnung gelten bereits früher. Für zuvor richtlinienkonform in Verkehr gebrachte Produkte gelten Übergangsbestimmungen.
+
+## [[Maschinenverordnung]]
+Die Maschinenverordnung (EU) 2023/1230 ist eine EU-Verordnung, die den freien Verkehr von Maschinen innerhalb der EU sicherstellen und zugleich ein hohes Sicherheits- und Gesundheitsschutzniveau gewährleisten soll. Sie legt grundlegende Sicherheits- und Gesundheitsschutzanforderungen sowie Verfahren zur Bewertung der Konformität fest, mit denen die Erfüllung dieser Anforderungen nachgewiesen wird.
 
 ### Relevanz für die Robotik:
-Roboter im öffentlichen Raum fallen häufig unter die Maschinenrichtlinie, da sie als Maschinen gelten, die autonom oder semi-autonom agieren können. Bei der Konstruktion, Produktion und dem Betrieb von Robotern muss sichergestellt sein, dass alle Anforderungen der Maschinenrichtlinie erfüllt sind, wie z.B. **sichere Konstruktion, Risikobewertung und CE-Kennzeichnung**. Dies garantiert, dass Roboter nur mit umfassenden Sicherheitsprüfungen und Zertifizierungen betrieben werden und damit keine Gefahr für die Öffentlichkeit darstellen. Die Einhaltung dieser Richtlinie ist also essentiell für den sicheren Einsatz von Robotern in öffentlichen Bereichen.
+Roboter im öffentlichen Raum fallen häufig unter die Maschinenverordnung, da sie als Maschinen gelten, die autonom oder semi-autonom agieren können. Bei der Konstruktion, Produktion und dem Betrieb von Robotern muss sichergestellt sein, dass alle Anforderungen der Maschinenverordnung erfüllt sind, wie z.B. **sichere Konstruktion, Risikobewertung und CE-Kennzeichnung**. Dies garantiert, dass Roboter nur mit umfassenden Sicherheitsprüfungen und Zertifizierungen betrieben werden und damit keine Gefahr für die Öffentlichkeit darstellen. Die Einhaltung dieser Richtlinie ist also essentiell für den sicheren Einsatz von Robotern in öffentlichen Bereichen.
 
 ---
 
@@ -40,5 +43,5 @@ Diese Gesetze und Richtlinien bieten einen Rahmen für die Entwicklung, Zertifiz
 
 ## Nutzungshinweise
 
-- **Querreferenzen**: Jedes Gesetzt ist, wo relevant, mit Verweisen auf Gesetze (z.B. das Produktsicherheitsgesetz und die Maschinenrichtlinie) und andere Normen versehen, um umfassende Anwendungsinformationen bereitzustellen.
+- **Querreferenzen**: Jedes Gesetzt ist, wo relevant, mit Verweisen auf Gesetze (z.B. das Produktsicherheitsgesetz und die Maschinenverordnung) und andere Normen versehen, um umfassende Anwendungsinformationen bereitzustellen.
 - **Tag-Suche**: Mithilfe der Tags wie #Domäne/Maschinen/Roboter/Cobot #Domain/Künstliche-Intelligenz #Domäne/Maschinen/Fahrerlose_Transportsysteme_FTS lassen sich Normen nach spezifischen Anwendungsbereichen durchsuchen. 

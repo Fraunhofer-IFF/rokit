@@ -1,6 +1,6 @@
 ---
 tags: []
-Ausgabedatum: 2023-02-01
+Ausgabedatum: 2025-12-01
 Harmonisiert: false
 Gülitgkeit: true
 Deutsch verfügbar: true
@@ -8,9 +8,9 @@ Englisch verfügbar: true
 Frei verfügbar: false
 ---
 
-- **Ausgabedatum**: 2023-02-01
+- **Ausgabedatum**: 2025-12-01
 - **Harmonisiert**: Nein
-- **Gülitgkeit**: Ja
+- **Gültigkeit**: Ja
 - **Deutsch verfügbar**: Ja
 - **Englisch verfügbar**: Ja
 - **Frei verfügbar**: Nein

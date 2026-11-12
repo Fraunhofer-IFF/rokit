@@ -2,7 +2,7 @@
 tags:
 Ausgabedatum: 2008-12-01
 Harmonisiert: true
-Gülitgkeit: true
+Gültigkeit: true
 Deutsch verfügbar: true
 Englisch verfügbar: true
 Frei verfügbar: false
@@ -10,12 +10,12 @@ Frei verfügbar: false
 
 - **Ausgabedatum**: 2008-12-01
 - **Harmonisiert**: Ja
-- **Gülitgkeit**: Ja
+- **Gültigkeit**: Ja
 - **Deutsch verfügbar**: Ja
 - **Englisch verfügbar**: Ja
 - **Frei verfügbar**: Nein
 
-# DIN EN ISO 614-1:2008-12
+# DIN EN 614-2:2008-12
 ## Sicherheit von Maschinen – Ergonomische Gestaltungsgrundsätze – Teil 2: Wechselwirkungen zwischen der Gestaltung von Maschinen und den Arbeitsaufgaben
 
 Gremium: [[ISO/ TC 159/ SC1]]
@@ -53,7 +53,7 @@ Einsatzgebiete:
 
 ***
 ### Normative Verweisungen
-[[Maschinenrichtlinie]]
+[[Maschinenverordnung]]
 [[DIN EN 614-1]]
 [[DIN SPEC 33434-3]]
 [[DIN EN 894-1]]

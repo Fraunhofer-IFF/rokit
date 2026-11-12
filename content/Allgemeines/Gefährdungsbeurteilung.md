@@ -51,7 +51,7 @@ Darüber hinaus ergibt sich diese Verpflichtung auch aus:
 - Biostoffverordnung (BioStoffV) → für Tätigkeiten mit Biostoffen
 - Gefahrstoffverordnung (GefStoffV) → für Tätigkeiten mit Gefahrstoffen, insbesondere Grundpflichten und Festlegen weiterer Schutzmaßnahmen, auch zu Brand- und Explosionsgefährdungen
 - Jugendschutzgesetz (JuSchG) → für Jugendliche Lärm-Vibrations
-- Arbeitsschutzverordnung (LärmVibrationsArbSchV) → für Tätigkeiten mit Gefährdung durch Lärm oder Vibration
+- Lärm- und Vibrations-Arbeitsschutzverordnung (LärmVibrationsArbSchV) → für Tätigkeiten mit Gefährdung durch Lärm oder Vibration
 - Lastenhandhabungsverordnung (LasthandhabV) → für manuelle Lastenhandhabungen
 - Mutterschutzgesetz (MuSchG) → für schwangere oder stillende Frauen oder deren Kinder
 - DGUV Regeln 112-189 bis 112-201 → für persönliche Schutzausrüstungen

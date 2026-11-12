@@ -9,7 +9,7 @@
 
 ### Beschreibung
 
-Maschinen müssen in Europa den formalen sowie den grundlegenden Sicherheits- und Gesundheitsanforderungen der EG-[[Maschinenrichtlinie]] 2006/42/EG entsprechen. Nach Anhang 1 „Grundlegende Sicherheits- und Gesundheitsschutzanforderungen für Konstruktion und Bau von Maschinen – Allgemeine Grundsätze“ Absatz 1 hat der Hersteller einer Maschine dafür zu sorgen, dass eine Risikobeurteilung vorgenommen wird, um die für die Maschine geltenden Sicherheits- und Gesundheitsschutzanforderungen zu ermitteln. Die Maschine muss dann unter Berücksichtigung der Ergebnisse der Risikobeurteilung konstruiert und gebaut werden.
+Maschinen müssen in Europa den formalen sowie den grundlegenden Sicherheits- und Gesundheitsanforderungen der [[Maschinenverordnung]] (Verordnung (EU) 2023/1230) entsprechen. Nach Anhang III „GRUNDLEGENDE SICHERHEITS- UND GESUNDHEITSSCHUTZ-ANFORDERUNGEN FÜR KONSTRUKTION UND BAU VON MASCHINEN ODER DAZUGEHÖRIGEN PRODUKTEN“, Teil B "Allgemeine Grundsätze", Absatz 1 hat der Hersteller einer Maschine dafür zu sorgen, dass eine Risikobeurteilung vorgenommen wird, um die für die Maschine geltenden Sicherheits- und Gesundheitsschutzanforderungen zu ermitteln. Die Maschine muss dann unter Berücksichtigung der Ergebnisse der Risikobeurteilung konstruiert und gebaut werden.
 
 ![[Risikobeurteilung.svg]]
 Abb. 1: Aspekte einer Risikobeurteilung nach ISO 12100
@@ -28,7 +28,7 @@ Bei der Wahl der angemessensten Lösungen muss der Hersteller oder sein Bevollm�
 - **Technische Schutzmaßnahmen:** Ergreifen der notwendigen Schutzmaßnahmen gegen Risiken, die sich nicht beseitigen lassen
 - **Benutzerinformation:** Unterrichtung der Benutzer über die Restrisiken aufgrund der nicht vollständigen Wirksamkeit der getroffenen Schutzmaßnahmen; Hinweis auf eine eventuell erforderliche spezielle Ausbildung oder Einarbeitung und persönliche Schutzausrüstung.
 
-In der Praxis wird als grundlegende Orientierung zur Durchführung einer Risikobeurteilung die Norm [[DIN EN ISO 12100]] „Sicherheit von Maschinen – Allgemeine Gestaltungsleitsätze Risikobeurteilung und Risikominderung“ verwendet. Häufig wird zusätzlich die [[DIN EN ISO 13849-1]] „Sicherheit von Maschinen – Sicherheitsbezogene Teile von Steuerungen“ verwendet, um einen Risikominderung von Sicherheitsfunktionen zu gewährleisten. Aber auch eine Reihe andere [[Normen]] zu z.B. Schutzeinrichtungen sind hilfreich, um ein akzeptables Restrisiko zu erreichen.
+In der Praxis wird als grundlegende Orientierung zur Durchführung einer Risikobeurteilung die Norm [[DIN EN ISO 12100]] „Sicherheit von Maschinen – Allgemeine Gestaltungsleitsätze Risikobeurteilung und Risikominderung“ verwendet. Häufig wird zusätzlich die [[DIN EN ISO 13849-1]] „Sicherheit von Maschinen – Sicherheitsbezogene Teile von Steuerungen“ verwendet, um einen Risikominderung zu beurteilen und durch Sicherheitsfunktionen zu gewährleisten. Aber auch eine Reihe andere [[Normen]] zu z.B. Schutzeinrichtungen sind hilfreich, um ein akzeptables Restrisiko zu erreichen.
 
 ![[Risikoreduzierung.svg]]
 Abb. 1: Risikoreduzierung (Bild: IFA)
@@ -38,7 +38,7 @@ Die Risikobeurteilung darf keinesfalls als ein einzelner Schritt verstanden werd
 ***
 ### Rechtliche Grundlage
 
-[[Maschinenrichtlinie]] RICHTLINIE 2006/42/EG
+- [[Maschinenverordnung]] – Verordnung (EU) 2023/1230
 
 ***
 
@@ -75,5 +75,7 @@ Einsatzgebiete:
 [Risikobeurteilung von Maschinen und Anlagen - Maßnahmen gegen Manipulation von Schutzeinrichtungen](https://publikationen.dguv.de/regelwerk/publikationen-nach-fachbereich/holz-und-metall/maschinen-robotik-und-fertigungsautomation/3524/risikobeurteilung-von-maschinen-und-anlagen-massnahmen-gegen-manipulation-von-schutzeinrichtungen)
 
 [Sicherheit von Maschinensteuerungen nach DIN EN ISO 13849](https://www.dguv.de/ifa/praxishilfen/praxishilfen-maschinenschutz/sicherheit-von-maschinensteuerungen/index.jsp)
+
+[Toolbox Maschinensicherheit PLC-Drehscheibe](https://maschinen.ifa.dguv.de/plc)
 
 [![[rokit_banner.png]]](https://public-robots.de/)

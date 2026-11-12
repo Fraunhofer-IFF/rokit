@@ -2,7 +2,7 @@
 tags: []
 Ausgabedatum: 2009-01-01
 Harmonisiert: false
-Gülitgkeit: true
+Gültigkeit: true
 Deutsch verfügbar: true
 Englisch verfügbar: true
 Frei verfügbar: false

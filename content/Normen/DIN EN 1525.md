@@ -2,7 +2,7 @@
 tags: []
 Ausgabedatum: 1997-12-01
 Harmonisiert: false
-Gülitgkeit: false
+Gültigkeit: false
 Deutsch verfügbar: true
 Englisch verfügbar: true
 Frei verfügbar: false
@@ -10,7 +10,7 @@ Frei verfügbar: false
 
 - **Ausgabedatum**: 1997-12-01
 - **Harmonisiert**: Nein
-- **Gülitgkeit**: Nein
+- **Gültigkeit**: Nein
 - **Deutsch verfügbar**: Ja
 - **Englisch verfügbar**: Ja
 - **Frei verfügbar**: Nein

@@ -1,23 +1,23 @@
 ---
 tags:
   - "#Robustness"
-Ausgabedatum: 
+Ausgabedatum: 2021-03-01
 Harmonisiert: false
-Gülitgkeit: false
-Deutsch verfügbar: false
+Gültigkeit: false
+Deutsch verfügbar: true
 Englisch verfügbar: true
 Frei verfügbar: false
 ---
 
-- **Ausgabedatum**:
+- **Ausgabedatum**: 2021-03-01
 - **Harmonisiert**: Nein
-- **Gülitgkeit**: Nein
-- **Deutsch verfügbar**: Nein
+- **Gültigkeit**: Nein
+- **Deutsch verfügbar**: Ja
 - **Englisch verfügbar**: Ja
 - **Frei verfügbar**: Nein
 
 # ISO IEC TR 24029-1
-## Assessment of the robustness of neural networks - Overview
+## Informationstechnik – Künstliche Intelligenz – Bewertung der Robustheit neuronaler Netze
 
 Gremium: [[ISO/IEC JTC 1 SC 42]]
 

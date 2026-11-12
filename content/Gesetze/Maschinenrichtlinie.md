@@ -1,14 +1,14 @@
 ---
 tags: []
-Ausgabedatum: 2006.05.17
-Gülitgkeit: true
+Ausgabedatum: 2006-05-17
+Gültigkeit: false
 Deutsch verfügbar: true
 Englisch verfügbar: true
 Frei verfügbar: true
 ---
 
 - **Ausgabedatum**: 2006.05.17
-- **Gülitgkeit**: Ja
+- **Gültigkeit**: Nein
 - **Deutsch verfügbar**: Ja
 - **Englisch verfügbar**: Ja
 - **Frei verfügbar**: Ja
@@ -16,8 +16,8 @@ Frei verfügbar: true
 # RICHTLINIE 2006/42/EG
 ## Maschinenrichtlinie
 
-Geltungsbereich: [[EUROPÄISCHEN UNION]]
-Dokumententyp: [[EU-Richtlinie]]
+Geltungsbereich: **EUROPÄISCHEN UNION**
+Dokumententyp: **EU-Richtlinie**
 Fundstelle: [Link](https://eur-lex.europa.eu/legal-content/DE/TXT/PDF/?uri=CELEX:32006L0042)
 
 [![[rokit_logo.png|200]]](https://public-robots.de/)

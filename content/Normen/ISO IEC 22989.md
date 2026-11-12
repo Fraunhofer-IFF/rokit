@@ -1,24 +1,24 @@
 ---
 tags: []
-Ausgabedatum: 
+Ausgabedatum: 2024-09-01
 Harmonisiert: false
-Gülitgkeit: false
-Deutsch verfügbar: false
+Gültigkeit: true
+Deutsch verfügbar: true
 Englisch verfügbar: true
-Frei verfügbar: true
+Frei verfügbar: false
 ---
 
-- **Ausgabedatum**:
+- **Ausgabedatum**: 2024-09-01
 - **Harmonisiert**: Nein
-- **Gülitgkeit**: Nein
-- **Deutsch verfügbar**: Nein
+- **Gültigkeit**: Ja
+- **Deutsch verfügbar**: Ja
 - **Englisch verfügbar**: Ja
-- **Frei verfügbar**: Ja
+- **Frei verfügbar**: Nein
 
-# ISO IEC 22989
-## Artificial intelligence concepts and terminology
+# DIN EN ISO/IEC 22989:2024-09
+## Informationstechnik - Künstliche Intelligenz - Konzepte und Terminologie der künstlichen Intelligenz
 
-Gremium: [[ISO/IEC JTC 1 SC 42]]
+Gremium: DIN/DKE Gemeinschaftsarbeitsausschuss NA 043-01-42 GA
 
 Dokumententyp: [[International Standard]]
 

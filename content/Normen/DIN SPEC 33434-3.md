@@ -1,25 +1,25 @@
 ---
 tags:
-Ausgabedatum: 
+Ausgabedatum: 2011-03-01
 Harmonisiert: false
-Gülitgkeit: true
+Gültigkeit: true
 Deutsch verfügbar: true
 Englisch verfügbar: true
 Frei verfügbar: false
 ---
 
-- **Ausgabedatum**:
+- **Ausgabedatum**: 2011-03-01
 - **Harmonisiert**: Nein
-- **Gülitgkeit**: Ja
+- **Gültigkeit**: Ja
 - **Deutsch verfügbar**: Ja
 - **Englisch verfügbar**: Ja
 - **Frei verfügbar**: Nein
 
 # DIN SPEC 33434-3 (DIN CEN/TR 614-3)
-## Sicherheit von Maschinen – Ergonomische Gestaltungsgrundsätze – Teil 3: Ergonomische Grundsätze für die Gestaltung von mobilen Maschinen
+## Sicherheit von Maschinen - Teil 3: Ergonomische Grundsätze für die Gestaltung von mobilen Maschinen; Deutsche Fassung CEN/TR 614-3:2010
 
 Gremium: [[ISO/ TC 159/ SC1]]
-Dokumententyp: [[B-Norm]]
+Dokumententyp: Technischer Bericht
 [![[rokit_logo.png|200]]](https://public-robots.de/)
 
 ***
@@ -59,7 +59,7 @@ Einsatzgebiete:
 
 ***
 ### Normative Verweisungen
-[[Maschinenrichtlinie]]
+[[Maschinenverordnung]]
 [[DIN EN 614-1]]
 [[DIN EN 614-2]]
 [[DIN EN 894-1]]

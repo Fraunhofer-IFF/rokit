@@ -2,7 +2,7 @@
 tags: []
 Ausgabedatum: 2023-11-01
 Harmonisiert: false
-Gülitgkeit: true
+Gültigkeit: true
 Deutsch verfügbar: false
 Englisch verfügbar: true
 Frei verfügbar: false
@@ -10,7 +10,7 @@ Frei verfügbar: false
 
 - **Ausgabedatum**: 2023-11-01
 - **Harmonisiert**: Nein
-- **Gülitgkeit**: Ja
+- **Gültigkeit**: Ja
 - **Deutsch verfügbar**: Nein
 - **Englisch verfügbar**: Ja
 - **Frei verfügbar**: Nein

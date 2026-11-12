@@ -1,22 +1,22 @@
 ---
 tags: []
-Ausgabedatum: 
+Ausgabedatum: 2025-07-01
 Harmonisiert: false
-Gülitgkeit: false
-Deutsch verfügbar: false
+Gültigkeit: false
+Deutsch verfügbar: true
 Englisch verfügbar: true
 Frei verfügbar: false
 ---
 
-- **Ausgabedatum**:
+- **Ausgabedatum**: 2025-07-01
 - **Harmonisiert**: Nein
-- **Gülitgkeit**: Nein
-- **Deutsch verfügbar**: Nein
+- **Gültigkeit**: Nein
+- **Deutsch verfügbar**: Ja
 - **Englisch verfügbar**: Ja
 - **Frei verfügbar**: Nein
 
-# ISO IEC TR 5469
-## Functional safety of AI-systems
+# DIN ISO/IEC TR 5469
+## Künstliche Intelligenz - Funktionale Sicherheit und KI-Systeme
 
 Gremium: [[ISO/IEC JTC 1 SC 42]]
 

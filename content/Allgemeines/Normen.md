@@ -36,7 +36,7 @@ In diesem Ordner sind die wesentlichen Normen für den sicheren und normgerechte
 
 ## Nutzungshinweise
 
-- **Querreferenzen**: Jede Norm ist, wo relevant, mit Verweisen auf Gesetze (z.B. das Produktsicherheitsgesetz und die Maschinenrichtlinie) und andere Normen versehen, um umfassende Anwendungsinformationen bereitzustellen.
+- **Querreferenzen**: Jede Norm ist, wo relevant, mit Verweisen auf Gesetze (z.B. das Produktsicherheitsgesetz und die Maschinenverordnung) und andere Normen versehen, um umfassende Anwendungsinformationen bereitzustellen.
 - **Tag-Suche**: Mithilfe der Tags wie #Domäne/Maschinen/Roboter/Cobot #Domain/Künstliche-Intelligenz #Domäne/Maschinen/Fahrerlose_Transportsysteme_FTS  lassen sich Normen nach spezifischen Anwendungsbereichen durchsuchen. 
 
 
